@@ -1,0 +1,1411 @@
+"Notes"	"State of Residence"	"State of Residence Code"	"Month"	"Month Code"	"Year"	"Year Code"	Births
+	"Alabama"	"01"	"January"	"1"	"2023"	"2023"	4996
+	"Alabama"	"01"	"January"	"1"	"2024"	"2024"	4954
+"Total"	"Alabama"	"01"	"January"	"1"			9950
+	"Alabama"	"01"	"February"	"2"	"2023"	"2023"	4406
+	"Alabama"	"01"	"February"	"2"	"2024"	"2024"	4474
+"Total"	"Alabama"	"01"	"February"	"2"			8880
+	"Alabama"	"01"	"March"	"3"	"2023"	"2023"	4911
+"Total"	"Alabama"	"01"	"March"	"3"			4911
+	"Alabama"	"01"	"April"	"4"	"2023"	"2023"	4377
+"Total"	"Alabama"	"01"	"April"	"4"			4377
+	"Alabama"	"01"	"May"	"5"	"2023"	"2023"	4639
+"Total"	"Alabama"	"01"	"May"	"5"			4639
+	"Alabama"	"01"	"June"	"6"	"2023"	"2023"	4824
+"Total"	"Alabama"	"01"	"June"	"6"			4824
+	"Alabama"	"01"	"July"	"7"	"2023"	"2023"	4899
+"Total"	"Alabama"	"01"	"July"	"7"			4899
+	"Alabama"	"01"	"August"	"8"	"2023"	"2023"	5159
+"Total"	"Alabama"	"01"	"August"	"8"			5159
+	"Alabama"	"01"	"September"	"9"	"2023"	"2023"	4992
+"Total"	"Alabama"	"01"	"September"	"9"			4992
+	"Alabama"	"01"	"October"	"10"	"2023"	"2023"	4956
+"Total"	"Alabama"	"01"	"October"	"10"			4956
+	"Alabama"	"01"	"November"	"11"	"2023"	"2023"	4838
+"Total"	"Alabama"	"01"	"November"	"11"			4838
+	"Alabama"	"01"	"December"	"12"	"2023"	"2023"	4826
+"Total"	"Alabama"	"01"	"December"	"12"			4826
+"Total"	"Alabama"	"01"					67251
+	"Alaska"	"02"	"January"	"1"	"2023"	"2023"	759
+	"Alaska"	"02"	"January"	"1"	"2024"	"2024"	754
+"Total"	"Alaska"	"02"	"January"	"1"			1513
+	"Alaska"	"02"	"February"	"2"	"2023"	"2023"	682
+	"Alaska"	"02"	"February"	"2"	"2024"	"2024"	643
+"Total"	"Alaska"	"02"	"February"	"2"			1325
+	"Alaska"	"02"	"March"	"3"	"2023"	"2023"	758
+"Total"	"Alaska"	"02"	"March"	"3"			758
+	"Alaska"	"02"	"April"	"4"	"2023"	"2023"	712
+"Total"	"Alaska"	"02"	"April"	"4"			712
+	"Alaska"	"02"	"May"	"5"	"2023"	"2023"	767
+"Total"	"Alaska"	"02"	"May"	"5"			767
+	"Alaska"	"02"	"June"	"6"	"2023"	"2023"	776
+"Total"	"Alaska"	"02"	"June"	"6"			776
+	"Alaska"	"02"	"July"	"7"	"2023"	"2023"	771
+"Total"	"Alaska"	"02"	"July"	"7"			771
+	"Alaska"	"02"	"August"	"8"	"2023"	"2023"	738
+"Total"	"Alaska"	"02"	"August"	"8"			738
+	"Alaska"	"02"	"September"	"9"	"2023"	"2023"	776
+"Total"	"Alaska"	"02"	"September"	"9"			776
+	"Alaska"	"02"	"October"	"10"	"2023"	"2023"	753
+"Total"	"Alaska"	"02"	"October"	"10"			753
+	"Alaska"	"02"	"November"	"11"	"2023"	"2023"	770
+"Total"	"Alaska"	"02"	"November"	"11"			770
+	"Alaska"	"02"	"December"	"12"	"2023"	"2023"	748
+"Total"	"Alaska"	"02"	"December"	"12"			748
+"Total"	"Alaska"	"02"					10407
+	"Arizona"	"04"	"January"	"1"	"2023"	"2023"	6573
+	"Arizona"	"04"	"January"	"1"	"2024"	"2024"	6506
+"Total"	"Arizona"	"04"	"January"	"1"			13079
+	"Arizona"	"04"	"February"	"2"	"2023"	"2023"	6038
+	"Arizona"	"04"	"February"	"2"	"2024"	"2024"	6103
+"Total"	"Arizona"	"04"	"February"	"2"			12141
+	"Arizona"	"04"	"March"	"3"	"2023"	"2023"	6434
+"Total"	"Arizona"	"04"	"March"	"3"			6434
+	"Arizona"	"04"	"April"	"4"	"2023"	"2023"	5976
+"Total"	"Arizona"	"04"	"April"	"4"			5976
+	"Arizona"	"04"	"May"	"5"	"2023"	"2023"	6173
+"Total"	"Arizona"	"04"	"May"	"5"			6173
+	"Arizona"	"04"	"June"	"6"	"2023"	"2023"	6175
+"Total"	"Arizona"	"04"	"June"	"6"			6175
+	"Arizona"	"04"	"July"	"7"	"2023"	"2023"	6604
+"Total"	"Arizona"	"04"	"July"	"7"			6604
+	"Arizona"	"04"	"August"	"8"	"2023"	"2023"	7166
+"Total"	"Arizona"	"04"	"August"	"8"			7166
+	"Arizona"	"04"	"September"	"9"	"2023"	"2023"	6882
+"Total"	"Arizona"	"04"	"September"	"9"			6882
+	"Arizona"	"04"	"October"	"10"	"2023"	"2023"	6843
+"Total"	"Arizona"	"04"	"October"	"10"			6843
+	"Arizona"	"04"	"November"	"11"	"2023"	"2023"	6596
+"Total"	"Arizona"	"04"	"November"	"11"			6596
+	"Arizona"	"04"	"December"	"12"	"2023"	"2023"	6640
+"Total"	"Arizona"	"04"	"December"	"12"			6640
+"Total"	"Arizona"	"04"					90709
+	"Arkansas"	"05"	"January"	"1"	"2023"	"2023"	3006
+	"Arkansas"	"05"	"January"	"1"	"2024"	"2024"	2988
+"Total"	"Arkansas"	"05"	"January"	"1"			5994
+	"Arkansas"	"05"	"February"	"2"	"2023"	"2023"	2682
+	"Arkansas"	"05"	"February"	"2"	"2024"	"2024"	2751
+"Total"	"Arkansas"	"05"	"February"	"2"			5433
+	"Arkansas"	"05"	"March"	"3"	"2023"	"2023"	2856
+"Total"	"Arkansas"	"05"	"March"	"3"			2856
+	"Arkansas"	"05"	"April"	"4"	"2023"	"2023"	2666
+"Total"	"Arkansas"	"05"	"April"	"4"			2666
+	"Arkansas"	"05"	"May"	"5"	"2023"	"2023"	2887
+"Total"	"Arkansas"	"05"	"May"	"5"			2887
+	"Arkansas"	"05"	"June"	"6"	"2023"	"2023"	2940
+"Total"	"Arkansas"	"05"	"June"	"6"			2940
+	"Arkansas"	"05"	"July"	"7"	"2023"	"2023"	2992
+"Total"	"Arkansas"	"05"	"July"	"7"			2992
+	"Arkansas"	"05"	"August"	"8"	"2023"	"2023"	3197
+"Total"	"Arkansas"	"05"	"August"	"8"			3197
+	"Arkansas"	"05"	"September"	"9"	"2023"	"2023"	3031
+"Total"	"Arkansas"	"05"	"September"	"9"			3031
+	"Arkansas"	"05"	"October"	"10"	"2023"	"2023"	3130
+"Total"	"Arkansas"	"05"	"October"	"10"			3130
+	"Arkansas"	"05"	"November"	"11"	"2023"	"2023"	2945
+"Total"	"Arkansas"	"05"	"November"	"11"			2945
+	"Arkansas"	"05"	"December"	"12"	"2023"	"2023"	2947
+"Total"	"Arkansas"	"05"	"December"	"12"			2947
+"Total"	"Arkansas"	"05"					41018
+	"California"	"06"	"January"	"1"	"2023"	"2023"	33786
+	"California"	"06"	"January"	"1"	"2024"	"2024"	32726
+"Total"	"California"	"06"	"January"	"1"			66512
+	"California"	"06"	"February"	"2"	"2023"	"2023"	30528
+	"California"	"06"	"February"	"2"	"2024"	"2024"	30915
+"Total"	"California"	"06"	"February"	"2"			61443
+	"California"	"06"	"March"	"3"	"2023"	"2023"	33078
+"Total"	"California"	"06"	"March"	"3"			33078
+	"California"	"06"	"April"	"4"	"2023"	"2023"	30921
+"Total"	"California"	"06"	"April"	"4"			30921
+	"California"	"06"	"May"	"5"	"2023"	"2023"	32782
+"Total"	"California"	"06"	"May"	"5"			32782
+	"California"	"06"	"June"	"6"	"2023"	"2023"	32647
+"Total"	"California"	"06"	"June"	"6"			32647
+	"California"	"06"	"July"	"7"	"2023"	"2023"	34263
+"Total"	"California"	"06"	"July"	"7"			34263
+	"California"	"06"	"August"	"8"	"2023"	"2023"	35953
+"Total"	"California"	"06"	"August"	"8"			35953
+	"California"	"06"	"September"	"9"	"2023"	"2023"	34413
+"Total"	"California"	"06"	"September"	"9"			34413
+	"California"	"06"	"October"	"10"	"2023"	"2023"	34802
+"Total"	"California"	"06"	"October"	"10"			34802
+	"California"	"06"	"November"	"11"	"2023"	"2023"	33356
+"Total"	"California"	"06"	"November"	"11"			33356
+	"California"	"06"	"December"	"12"	"2023"	"2023"	33405
+"Total"	"California"	"06"	"December"	"12"			33405
+"Total"	"California"	"06"					463575
+	"Colorado"	"08"	"January"	"1"	"2023"	"2023"	4879
+	"Colorado"	"08"	"January"	"1"	"2024"	"2024"	5123
+"Total"	"Colorado"	"08"	"January"	"1"			10002
+	"Colorado"	"08"	"February"	"2"	"2023"	"2023"	4653
+	"Colorado"	"08"	"February"	"2"	"2024"	"2024"	4986
+"Total"	"Colorado"	"08"	"February"	"2"			9639
+	"Colorado"	"08"	"March"	"3"	"2023"	"2023"	5253
+"Total"	"Colorado"	"08"	"March"	"3"			5253
+	"Colorado"	"08"	"April"	"4"	"2023"	"2023"	5101
+"Total"	"Colorado"	"08"	"April"	"4"			5101
+	"Colorado"	"08"	"May"	"5"	"2023"	"2023"	5276
+"Total"	"Colorado"	"08"	"May"	"5"			5276
+	"Colorado"	"08"	"June"	"6"	"2023"	"2023"	5249
+"Total"	"Colorado"	"08"	"June"	"6"			5249
+	"Colorado"	"08"	"July"	"7"	"2023"	"2023"	5259
+"Total"	"Colorado"	"08"	"July"	"7"			5259
+	"Colorado"	"08"	"August"	"8"	"2023"	"2023"	5558
+"Total"	"Colorado"	"08"	"August"	"8"			5558
+	"Colorado"	"08"	"September"	"9"	"2023"	"2023"	5181
+"Total"	"Colorado"	"08"	"September"	"9"			5181
+	"Colorado"	"08"	"October"	"10"	"2023"	"2023"	5177
+"Total"	"Colorado"	"08"	"October"	"10"			5177
+	"Colorado"	"08"	"November"	"11"	"2023"	"2023"	4997
+"Total"	"Colorado"	"08"	"November"	"11"			4997
+	"Colorado"	"08"	"December"	"12"	"2023"	"2023"	4936
+"Total"	"Colorado"	"08"	"December"	"12"			4936
+"Total"	"Colorado"	"08"					71628
+	"Connecticut"	"09"	"January"	"1"	"2023"	"2023"	2748
+	"Connecticut"	"09"	"January"	"1"	"2024"	"2024"	2720
+"Total"	"Connecticut"	"09"	"January"	"1"			5468
+	"Connecticut"	"09"	"February"	"2"	"2023"	"2023"	2637
+	"Connecticut"	"09"	"February"	"2"	"2024"	"2024"	2729
+"Total"	"Connecticut"	"09"	"February"	"2"			5366
+	"Connecticut"	"09"	"March"	"3"	"2023"	"2023"	2874
+"Total"	"Connecticut"	"09"	"March"	"3"			2874
+	"Connecticut"	"09"	"April"	"4"	"2023"	"2023"	2787
+"Total"	"Connecticut"	"09"	"April"	"4"			2787
+	"Connecticut"	"09"	"May"	"5"	"2023"	"2023"	2934
+"Total"	"Connecticut"	"09"	"May"	"5"			2934
+	"Connecticut"	"09"	"June"	"6"	"2023"	"2023"	2884
+"Total"	"Connecticut"	"09"	"June"	"6"			2884
+	"Connecticut"	"09"	"July"	"7"	"2023"	"2023"	3054
+"Total"	"Connecticut"	"09"	"July"	"7"			3054
+	"Connecticut"	"09"	"August"	"8"	"2023"	"2023"	3149
+"Total"	"Connecticut"	"09"	"August"	"8"			3149
+	"Connecticut"	"09"	"September"	"9"	"2023"	"2023"	2886
+"Total"	"Connecticut"	"09"	"September"	"9"			2886
+	"Connecticut"	"09"	"October"	"10"	"2023"	"2023"	2987
+"Total"	"Connecticut"	"09"	"October"	"10"			2987
+	"Connecticut"	"09"	"November"	"11"	"2023"	"2023"	2788
+"Total"	"Connecticut"	"09"	"November"	"11"			2788
+	"Connecticut"	"09"	"December"	"12"	"2023"	"2023"	2829
+"Total"	"Connecticut"	"09"	"December"	"12"			2829
+"Total"	"Connecticut"	"09"					40006
+	"Delaware"	"10"	"January"	"1"	"2023"	"2023"	885
+	"Delaware"	"10"	"January"	"1"	"2024"	"2024"	860
+"Total"	"Delaware"	"10"	"January"	"1"			1745
+	"Delaware"	"10"	"February"	"2"	"2023"	"2023"	774
+	"Delaware"	"10"	"February"	"2"	"2024"	"2024"	781
+"Total"	"Delaware"	"10"	"February"	"2"			1555
+	"Delaware"	"10"	"March"	"3"	"2023"	"2023"	900
+"Total"	"Delaware"	"10"	"March"	"3"			900
+	"Delaware"	"10"	"April"	"4"	"2023"	"2023"	809
+"Total"	"Delaware"	"10"	"April"	"4"			809
+	"Delaware"	"10"	"May"	"5"	"2023"	"2023"	900
+"Total"	"Delaware"	"10"	"May"	"5"			900
+	"Delaware"	"10"	"June"	"6"	"2023"	"2023"	888
+"Total"	"Delaware"	"10"	"June"	"6"			888
+	"Delaware"	"10"	"July"	"7"	"2023"	"2023"	854
+"Total"	"Delaware"	"10"	"July"	"7"			854
+	"Delaware"	"10"	"August"	"8"	"2023"	"2023"	966
+"Total"	"Delaware"	"10"	"August"	"8"			966
+	"Delaware"	"10"	"September"	"9"	"2023"	"2023"	874
+"Total"	"Delaware"	"10"	"September"	"9"			874
+	"Delaware"	"10"	"October"	"10"	"2023"	"2023"	873
+"Total"	"Delaware"	"10"	"October"	"10"			873
+	"Delaware"	"10"	"November"	"11"	"2023"	"2023"	868
+"Total"	"Delaware"	"10"	"November"	"11"			868
+	"Delaware"	"10"	"December"	"12"	"2023"	"2023"	836
+"Total"	"Delaware"	"10"	"December"	"12"			836
+"Total"	"Delaware"	"10"					12068
+	"District of Columbia"	"11"	"January"	"1"	"2023"	"2023"	668
+	"District of Columbia"	"11"	"January"	"1"	"2024"	"2024"	612
+"Total"	"District of Columbia"	"11"	"January"	"1"			1280
+	"District of Columbia"	"11"	"February"	"2"	"2023"	"2023"	611
+	"District of Columbia"	"11"	"February"	"2"	"2024"	"2024"	591
+"Total"	"District of Columbia"	"11"	"February"	"2"			1202
+	"District of Columbia"	"11"	"March"	"3"	"2023"	"2023"	693
+"Total"	"District of Columbia"	"11"	"March"	"3"			693
+	"District of Columbia"	"11"	"April"	"4"	"2023"	"2023"	610
+"Total"	"District of Columbia"	"11"	"April"	"4"			610
+	"District of Columbia"	"11"	"May"	"5"	"2023"	"2023"	687
+"Total"	"District of Columbia"	"11"	"May"	"5"			687
+	"District of Columbia"	"11"	"June"	"6"	"2023"	"2023"	638
+"Total"	"District of Columbia"	"11"	"June"	"6"			638
+	"District of Columbia"	"11"	"July"	"7"	"2023"	"2023"	700
+"Total"	"District of Columbia"	"11"	"July"	"7"			700
+	"District of Columbia"	"11"	"August"	"8"	"2023"	"2023"	677
+"Total"	"District of Columbia"	"11"	"August"	"8"			677
+	"District of Columbia"	"11"	"September"	"9"	"2023"	"2023"	644
+"Total"	"District of Columbia"	"11"	"September"	"9"			644
+	"District of Columbia"	"11"	"October"	"10"	"2023"	"2023"	688
+"Total"	"District of Columbia"	"11"	"October"	"10"			688
+	"District of Columbia"	"11"	"November"	"11"	"2023"	"2023"	634
+"Total"	"District of Columbia"	"11"	"November"	"11"			634
+	"District of Columbia"	"11"	"December"	"12"	"2023"	"2023"	646
+"Total"	"District of Columbia"	"11"	"December"	"12"			646
+"Total"	"District of Columbia"	"11"					9099
+	"Florida"	"12"	"January"	"1"	"2023"	"2023"	18791
+	"Florida"	"12"	"January"	"1"	"2024"	"2024"	18421
+"Total"	"Florida"	"12"	"January"	"1"			37212
+	"Florida"	"12"	"February"	"2"	"2023"	"2023"	16676
+	"Florida"	"12"	"February"	"2"	"2024"	"2024"	17515
+"Total"	"Florida"	"12"	"February"	"2"			34191
+	"Florida"	"12"	"March"	"3"	"2023"	"2023"	18181
+"Total"	"Florida"	"12"	"March"	"3"			18181
+	"Florida"	"12"	"April"	"4"	"2023"	"2023"	16950
+"Total"	"Florida"	"12"	"April"	"4"			16950
+	"Florida"	"12"	"May"	"5"	"2023"	"2023"	18001
+"Total"	"Florida"	"12"	"May"	"5"			18001
+	"Florida"	"12"	"June"	"6"	"2023"	"2023"	18143
+"Total"	"Florida"	"12"	"June"	"6"			18143
+	"Florida"	"12"	"July"	"7"	"2023"	"2023"	18866
+"Total"	"Florida"	"12"	"July"	"7"			18866
+	"Florida"	"12"	"August"	"8"	"2023"	"2023"	19380
+"Total"	"Florida"	"12"	"August"	"8"			19380
+	"Florida"	"12"	"September"	"9"	"2023"	"2023"	18996
+"Total"	"Florida"	"12"	"September"	"9"			18996
+	"Florida"	"12"	"October"	"10"	"2023"	"2023"	19524
+"Total"	"Florida"	"12"	"October"	"10"			19524
+	"Florida"	"12"	"November"	"11"	"2023"	"2023"	18863
+"Total"	"Florida"	"12"	"November"	"11"			18863
+	"Florida"	"12"	"December"	"12"	"2023"	"2023"	19022
+"Total"	"Florida"	"12"	"December"	"12"			19022
+"Total"	"Florida"	"12"					257329
+	"Georgia"	"13"	"January"	"1"	"2023"	"2023"	10700
+	"Georgia"	"13"	"January"	"1"	"2024"	"2024"	10453
+"Total"	"Georgia"	"13"	"January"	"1"			21153
+	"Georgia"	"13"	"February"	"2"	"2023"	"2023"	9548
+	"Georgia"	"13"	"February"	"2"	"2024"	"2024"	9981
+"Total"	"Georgia"	"13"	"February"	"2"			19529
+	"Georgia"	"13"	"March"	"3"	"2023"	"2023"	10294
+"Total"	"Georgia"	"13"	"March"	"3"			10294
+	"Georgia"	"13"	"April"	"4"	"2023"	"2023"	9314
+"Total"	"Georgia"	"13"	"April"	"4"			9314
+	"Georgia"	"13"	"May"	"5"	"2023"	"2023"	10132
+"Total"	"Georgia"	"13"	"May"	"5"			10132
+	"Georgia"	"13"	"June"	"6"	"2023"	"2023"	10601
+"Total"	"Georgia"	"13"	"June"	"6"			10601
+	"Georgia"	"13"	"July"	"7"	"2023"	"2023"	10819
+"Total"	"Georgia"	"13"	"July"	"7"			10819
+	"Georgia"	"13"	"August"	"8"	"2023"	"2023"	11234
+"Total"	"Georgia"	"13"	"August"	"8"			11234
+	"Georgia"	"13"	"September"	"9"	"2023"	"2023"	10685
+"Total"	"Georgia"	"13"	"September"	"9"			10685
+	"Georgia"	"13"	"October"	"10"	"2023"	"2023"	10805
+"Total"	"Georgia"	"13"	"October"	"10"			10805
+	"Georgia"	"13"	"November"	"11"	"2023"	"2023"	10434
+"Total"	"Georgia"	"13"	"November"	"11"			10434
+	"Georgia"	"13"	"December"	"12"	"2023"	"2023"	10554
+"Total"	"Georgia"	"13"	"December"	"12"			10554
+"Total"	"Georgia"	"13"					145554
+	"Hawaii"	"15"	"January"	"1"	"2023"	"2023"	1323
+	"Hawaii"	"15"	"January"	"1"	"2024"	"2024"	1217
+"Total"	"Hawaii"	"15"	"January"	"1"			2540
+	"Hawaii"	"15"	"February"	"2"	"2023"	"2023"	1162
+	"Hawaii"	"15"	"February"	"2"	"2024"	"2024"	1125
+"Total"	"Hawaii"	"15"	"February"	"2"			2287
+	"Hawaii"	"15"	"March"	"3"	"2023"	"2023"	1239
+"Total"	"Hawaii"	"15"	"March"	"3"			1239
+	"Hawaii"	"15"	"April"	"4"	"2023"	"2023"	1198
+"Total"	"Hawaii"	"15"	"April"	"4"			1198
+	"Hawaii"	"15"	"May"	"5"	"2023"	"2023"	1213
+"Total"	"Hawaii"	"15"	"May"	"5"			1213
+	"Hawaii"	"15"	"June"	"6"	"2023"	"2023"	1233
+"Total"	"Hawaii"	"15"	"June"	"6"			1233
+	"Hawaii"	"15"	"July"	"7"	"2023"	"2023"	1206
+"Total"	"Hawaii"	"15"	"July"	"7"			1206
+	"Hawaii"	"15"	"August"	"8"	"2023"	"2023"	1320
+"Total"	"Hawaii"	"15"	"August"	"8"			1320
+	"Hawaii"	"15"	"September"	"9"	"2023"	"2023"	1210
+"Total"	"Hawaii"	"15"	"September"	"9"			1210
+	"Hawaii"	"15"	"October"	"10"	"2023"	"2023"	1276
+"Total"	"Hawaii"	"15"	"October"	"10"			1276
+	"Hawaii"	"15"	"November"	"11"	"2023"	"2023"	1211
+"Total"	"Hawaii"	"15"	"November"	"11"			1211
+	"Hawaii"	"15"	"December"	"12"	"2023"	"2023"	1205
+"Total"	"Hawaii"	"15"	"December"	"12"			1205
+"Total"	"Hawaii"	"15"					17138
+	"Idaho"	"16"	"January"	"1"	"2023"	"2023"	1831
+	"Idaho"	"16"	"January"	"1"	"2024"	"2024"	1789
+"Total"	"Idaho"	"16"	"January"	"1"			3620
+	"Idaho"	"16"	"February"	"2"	"2023"	"2023"	1643
+	"Idaho"	"16"	"February"	"2"	"2024"	"2024"	1713
+"Total"	"Idaho"	"16"	"February"	"2"			3356
+	"Idaho"	"16"	"March"	"3"	"2023"	"2023"	1912
+"Total"	"Idaho"	"16"	"March"	"3"			1912
+	"Idaho"	"16"	"April"	"4"	"2023"	"2023"	1773
+"Total"	"Idaho"	"16"	"April"	"4"			1773
+	"Idaho"	"16"	"May"	"5"	"2023"	"2023"	1850
+"Total"	"Idaho"	"16"	"May"	"5"			1850
+	"Idaho"	"16"	"June"	"6"	"2023"	"2023"	1946
+"Total"	"Idaho"	"16"	"June"	"6"			1946
+	"Idaho"	"16"	"July"	"7"	"2023"	"2023"	1957
+"Total"	"Idaho"	"16"	"July"	"7"			1957
+	"Idaho"	"16"	"August"	"8"	"2023"	"2023"	1963
+"Total"	"Idaho"	"16"	"August"	"8"			1963
+	"Idaho"	"16"	"September"	"9"	"2023"	"2023"	1900
+"Total"	"Idaho"	"16"	"September"	"9"			1900
+	"Idaho"	"16"	"October"	"10"	"2023"	"2023"	1892
+"Total"	"Idaho"	"16"	"October"	"10"			1892
+	"Idaho"	"16"	"November"	"11"	"2023"	"2023"	1862
+"Total"	"Idaho"	"16"	"November"	"11"			1862
+	"Idaho"	"16"	"December"	"12"	"2023"	"2023"	1868
+"Total"	"Idaho"	"16"	"December"	"12"			1868
+"Total"	"Idaho"	"16"					25899
+	"Illinois"	"17"	"January"	"1"	"2023"	"2023"	10078
+	"Illinois"	"17"	"January"	"1"	"2024"	"2024"	10204
+"Total"	"Illinois"	"17"	"January"	"1"			20282
+	"Illinois"	"17"	"February"	"2"	"2023"	"2023"	9291
+	"Illinois"	"17"	"February"	"2"	"2024"	"2024"	9660
+"Total"	"Illinois"	"17"	"February"	"2"			18951
+	"Illinois"	"17"	"March"	"3"	"2023"	"2023"	10644
+"Total"	"Illinois"	"17"	"March"	"3"			10644
+	"Illinois"	"17"	"April"	"4"	"2023"	"2023"	9759
+"Total"	"Illinois"	"17"	"April"	"4"			9759
+	"Illinois"	"17"	"May"	"5"	"2023"	"2023"	10501
+"Total"	"Illinois"	"17"	"May"	"5"			10501
+	"Illinois"	"17"	"June"	"6"	"2023"	"2023"	10759
+"Total"	"Illinois"	"17"	"June"	"6"			10759
+	"Illinois"	"17"	"July"	"7"	"2023"	"2023"	10902
+"Total"	"Illinois"	"17"	"July"	"7"			10902
+	"Illinois"	"17"	"August"	"8"	"2023"	"2023"	11037
+"Total"	"Illinois"	"17"	"August"	"8"			11037
+	"Illinois"	"17"	"September"	"9"	"2023"	"2023"	10621
+"Total"	"Illinois"	"17"	"September"	"9"			10621
+	"Illinois"	"17"	"October"	"10"	"2023"	"2023"	10644
+"Total"	"Illinois"	"17"	"October"	"10"			10644
+	"Illinois"	"17"	"November"	"11"	"2023"	"2023"	10376
+"Total"	"Illinois"	"17"	"November"	"11"			10376
+	"Illinois"	"17"	"December"	"12"	"2023"	"2023"	10191
+"Total"	"Illinois"	"17"	"December"	"12"			10191
+"Total"	"Illinois"	"17"					144667
+	"Indiana"	"18"	"January"	"1"	"2023"	"2023"	6616
+	"Indiana"	"18"	"January"	"1"	"2024"	"2024"	6362
+"Total"	"Indiana"	"18"	"January"	"1"			12978
+	"Indiana"	"18"	"February"	"2"	"2023"	"2023"	6061
+	"Indiana"	"18"	"February"	"2"	"2024"	"2024"	6255
+"Total"	"Indiana"	"18"	"February"	"2"			12316
+	"Indiana"	"18"	"March"	"3"	"2023"	"2023"	6717
+"Total"	"Indiana"	"18"	"March"	"3"			6717
+	"Indiana"	"18"	"April"	"4"	"2023"	"2023"	6121
+"Total"	"Indiana"	"18"	"April"	"4"			6121
+	"Indiana"	"18"	"May"	"5"	"2023"	"2023"	6586
+"Total"	"Indiana"	"18"	"May"	"5"			6586
+	"Indiana"	"18"	"June"	"6"	"2023"	"2023"	6701
+"Total"	"Indiana"	"18"	"June"	"6"			6701
+	"Indiana"	"18"	"July"	"7"	"2023"	"2023"	6877
+"Total"	"Indiana"	"18"	"July"	"7"			6877
+	"Indiana"	"18"	"August"	"8"	"2023"	"2023"	7054
+"Total"	"Indiana"	"18"	"August"	"8"			7054
+	"Indiana"	"18"	"September"	"9"	"2023"	"2023"	6590
+"Total"	"Indiana"	"18"	"September"	"9"			6590
+	"Indiana"	"18"	"October"	"10"	"2023"	"2023"	6661
+"Total"	"Indiana"	"18"	"October"	"10"			6661
+	"Indiana"	"18"	"November"	"11"	"2023"	"2023"	6461
+"Total"	"Indiana"	"18"	"November"	"11"			6461
+	"Indiana"	"18"	"December"	"12"	"2023"	"2023"	6525
+"Total"	"Indiana"	"18"	"December"	"12"			6525
+"Total"	"Indiana"	"18"					91587
+	"Iowa"	"19"	"January"	"1"	"2023"	"2023"	2892
+	"Iowa"	"19"	"January"	"1"	"2024"	"2024"	3047
+"Total"	"Iowa"	"19"	"January"	"1"			5939
+	"Iowa"	"19"	"February"	"2"	"2023"	"2023"	2736
+	"Iowa"	"19"	"February"	"2"	"2024"	"2024"	2715
+"Total"	"Iowa"	"19"	"February"	"2"			5451
+	"Iowa"	"19"	"March"	"3"	"2023"	"2023"	3040
+"Total"	"Iowa"	"19"	"March"	"3"			3040
+	"Iowa"	"19"	"April"	"4"	"2023"	"2023"	2881
+"Total"	"Iowa"	"19"	"April"	"4"			2881
+	"Iowa"	"19"	"May"	"5"	"2023"	"2023"	3125
+"Total"	"Iowa"	"19"	"May"	"5"			3125
+	"Iowa"	"19"	"June"	"6"	"2023"	"2023"	3111
+"Total"	"Iowa"	"19"	"June"	"6"			3111
+	"Iowa"	"19"	"July"	"7"	"2023"	"2023"	3179
+"Total"	"Iowa"	"19"	"July"	"7"			3179
+	"Iowa"	"19"	"August"	"8"	"2023"	"2023"	3291
+"Total"	"Iowa"	"19"	"August"	"8"			3291
+	"Iowa"	"19"	"September"	"9"	"2023"	"2023"	2969
+"Total"	"Iowa"	"19"	"September"	"9"			2969
+	"Iowa"	"19"	"October"	"10"	"2023"	"2023"	2917
+"Total"	"Iowa"	"19"	"October"	"10"			2917
+	"Iowa"	"19"	"November"	"11"	"2023"	"2023"	3002
+"Total"	"Iowa"	"19"	"November"	"11"			3002
+	"Iowa"	"19"	"December"	"12"	"2023"	"2023"	2906
+"Total"	"Iowa"	"19"	"December"	"12"			2906
+"Total"	"Iowa"	"19"					41811
+	"Kansas"	"20"	"January"	"1"	"2023"	"2023"	2910
+	"Kansas"	"20"	"January"	"1"	"2024"	"2024"	2809
+"Total"	"Kansas"	"20"	"January"	"1"			5719
+	"Kansas"	"20"	"February"	"2"	"2023"	"2023"	2494
+	"Kansas"	"20"	"February"	"2"	"2024"	"2024"	2610
+"Total"	"Kansas"	"20"	"February"	"2"			5104
+	"Kansas"	"20"	"March"	"3"	"2023"	"2023"	2854
+"Total"	"Kansas"	"20"	"March"	"3"			2854
+	"Kansas"	"20"	"April"	"4"	"2023"	"2023"	2642
+"Total"	"Kansas"	"20"	"April"	"4"			2642
+	"Kansas"	"20"	"May"	"5"	"2023"	"2023"	2802
+"Total"	"Kansas"	"20"	"May"	"5"			2802
+	"Kansas"	"20"	"June"	"6"	"2023"	"2023"	2943
+"Total"	"Kansas"	"20"	"June"	"6"			2943
+	"Kansas"	"20"	"July"	"7"	"2023"	"2023"	2927
+"Total"	"Kansas"	"20"	"July"	"7"			2927
+	"Kansas"	"20"	"August"	"8"	"2023"	"2023"	3013
+"Total"	"Kansas"	"20"	"August"	"8"			3013
+	"Kansas"	"20"	"September"	"9"	"2023"	"2023"	2960
+"Total"	"Kansas"	"20"	"September"	"9"			2960
+	"Kansas"	"20"	"October"	"10"	"2023"	"2023"	2854
+"Total"	"Kansas"	"20"	"October"	"10"			2854
+	"Kansas"	"20"	"November"	"11"	"2023"	"2023"	2821
+"Total"	"Kansas"	"20"	"November"	"11"			2821
+	"Kansas"	"20"	"December"	"12"	"2023"	"2023"	2846
+"Total"	"Kansas"	"20"	"December"	"12"			2846
+"Total"	"Kansas"	"20"					39485
+	"Kentucky"	"21"	"January"	"1"	"2023"	"2023"	4369
+	"Kentucky"	"21"	"January"	"1"	"2024"	"2024"	4387
+"Total"	"Kentucky"	"21"	"January"	"1"			8756
+	"Kentucky"	"21"	"February"	"2"	"2023"	"2023"	3916
+	"Kentucky"	"21"	"February"	"2"	"2024"	"2024"	4099
+"Total"	"Kentucky"	"21"	"February"	"2"			8015
+	"Kentucky"	"21"	"March"	"3"	"2023"	"2023"	4417
+"Total"	"Kentucky"	"21"	"March"	"3"			4417
+	"Kentucky"	"21"	"April"	"4"	"2023"	"2023"	3942
+"Total"	"Kentucky"	"21"	"April"	"4"			3942
+	"Kentucky"	"21"	"May"	"5"	"2023"	"2023"	4333
+"Total"	"Kentucky"	"21"	"May"	"5"			4333
+	"Kentucky"	"21"	"June"	"6"	"2023"	"2023"	4472
+"Total"	"Kentucky"	"21"	"June"	"6"			4472
+	"Kentucky"	"21"	"July"	"7"	"2023"	"2023"	4485
+"Total"	"Kentucky"	"21"	"July"	"7"			4485
+	"Kentucky"	"21"	"August"	"8"	"2023"	"2023"	4637
+"Total"	"Kentucky"	"21"	"August"	"8"			4637
+	"Kentucky"	"21"	"September"	"9"	"2023"	"2023"	4248
+"Total"	"Kentucky"	"21"	"September"	"9"			4248
+	"Kentucky"	"21"	"October"	"10"	"2023"	"2023"	4465
+"Total"	"Kentucky"	"21"	"October"	"10"			4465
+	"Kentucky"	"21"	"November"	"11"	"2023"	"2023"	4268
+"Total"	"Kentucky"	"21"	"November"	"11"			4268
+	"Kentucky"	"21"	"December"	"12"	"2023"	"2023"	4440
+"Total"	"Kentucky"	"21"	"December"	"12"			4440
+"Total"	"Kentucky"	"21"					60478
+	"Louisiana"	"22"	"January"	"1"	"2023"	"2023"	4861
+	"Louisiana"	"22"	"January"	"1"	"2024"	"2024"	4393
+"Total"	"Louisiana"	"22"	"January"	"1"			9254
+	"Louisiana"	"22"	"February"	"2"	"2023"	"2023"	4197
+	"Louisiana"	"22"	"February"	"2"	"2024"	"2024"	3901
+"Total"	"Louisiana"	"22"	"February"	"2"			8098
+	"Louisiana"	"22"	"March"	"3"	"2023"	"2023"	4354
+"Total"	"Louisiana"	"22"	"March"	"3"			4354
+	"Louisiana"	"22"	"April"	"4"	"2023"	"2023"	4007
+"Total"	"Louisiana"	"22"	"April"	"4"			4007
+	"Louisiana"	"22"	"May"	"5"	"2023"	"2023"	4613
+"Total"	"Louisiana"	"22"	"May"	"5"			4613
+	"Louisiana"	"22"	"June"	"6"	"2023"	"2023"	4419
+"Total"	"Louisiana"	"22"	"June"	"6"			4419
+	"Louisiana"	"22"	"July"	"7"	"2023"	"2023"	4820
+"Total"	"Louisiana"	"22"	"July"	"7"			4820
+	"Louisiana"	"22"	"August"	"8"	"2023"	"2023"	5075
+"Total"	"Louisiana"	"22"	"August"	"8"			5075
+	"Louisiana"	"22"	"September"	"9"	"2023"	"2023"	4642
+"Total"	"Louisiana"	"22"	"September"	"9"			4642
+	"Louisiana"	"22"	"October"	"10"	"2023"	"2023"	4757
+"Total"	"Louisiana"	"22"	"October"	"10"			4757
+	"Louisiana"	"22"	"November"	"11"	"2023"	"2023"	4608
+"Total"	"Louisiana"	"22"	"November"	"11"			4608
+	"Louisiana"	"22"	"December"	"12"	"2023"	"2023"	4559
+"Total"	"Louisiana"	"22"	"December"	"12"			4559
+"Total"	"Louisiana"	"22"					63206
+	"Maine"	"23"	"January"	"1"	"2023"	"2023"	959
+	"Maine"	"23"	"January"	"1"	"2024"	"2024"	944
+"Total"	"Maine"	"23"	"January"	"1"			1903
+	"Maine"	"23"	"February"	"2"	"2023"	"2023"	878
+	"Maine"	"23"	"February"	"2"	"2024"	"2024"	910
+"Total"	"Maine"	"23"	"February"	"2"			1788
+	"Maine"	"23"	"March"	"3"	"2023"	"2023"	946
+"Total"	"Maine"	"23"	"March"	"3"			946
+	"Maine"	"23"	"April"	"4"	"2023"	"2023"	966
+"Total"	"Maine"	"23"	"April"	"4"			966
+	"Maine"	"23"	"May"	"5"	"2023"	"2023"	989
+"Total"	"Maine"	"23"	"May"	"5"			989
+	"Maine"	"23"	"June"	"6"	"2023"	"2023"	983
+"Total"	"Maine"	"23"	"June"	"6"			983
+	"Maine"	"23"	"July"	"7"	"2023"	"2023"	1068
+"Total"	"Maine"	"23"	"July"	"7"			1068
+	"Maine"	"23"	"August"	"8"	"2023"	"2023"	1040
+"Total"	"Maine"	"23"	"August"	"8"			1040
+	"Maine"	"23"	"September"	"9"	"2023"	"2023"	983
+"Total"	"Maine"	"23"	"September"	"9"			983
+	"Maine"	"23"	"October"	"10"	"2023"	"2023"	963
+"Total"	"Maine"	"23"	"October"	"10"			963
+	"Maine"	"23"	"November"	"11"	"2023"	"2023"	915
+"Total"	"Maine"	"23"	"November"	"11"			915
+	"Maine"	"23"	"December"	"12"	"2023"	"2023"	933
+"Total"	"Maine"	"23"	"December"	"12"			933
+"Total"	"Maine"	"23"					13477
+	"Maryland"	"24"	"January"	"1"	"2023"	"2023"	5592
+	"Maryland"	"24"	"January"	"1"	"2024"	"2024"	5445
+"Total"	"Maryland"	"24"	"January"	"1"			11037
+	"Maryland"	"24"	"February"	"2"	"2023"	"2023"	4889
+	"Maryland"	"24"	"February"	"2"	"2024"	"2024"	5141
+"Total"	"Maryland"	"24"	"February"	"2"			10030
+	"Maryland"	"24"	"March"	"3"	"2023"	"2023"	5469
+"Total"	"Maryland"	"24"	"March"	"3"			5469
+	"Maryland"	"24"	"April"	"4"	"2023"	"2023"	5178
+"Total"	"Maryland"	"24"	"April"	"4"			5178
+	"Maryland"	"24"	"May"	"5"	"2023"	"2023"	5516
+"Total"	"Maryland"	"24"	"May"	"5"			5516
+	"Maryland"	"24"	"June"	"6"	"2023"	"2023"	5668
+"Total"	"Maryland"	"24"	"June"	"6"			5668
+	"Maryland"	"24"	"July"	"7"	"2023"	"2023"	5791
+"Total"	"Maryland"	"24"	"July"	"7"			5791
+	"Maryland"	"24"	"August"	"8"	"2023"	"2023"	5819
+"Total"	"Maryland"	"24"	"August"	"8"			5819
+	"Maryland"	"24"	"September"	"9"	"2023"	"2023"	5473
+"Total"	"Maryland"	"24"	"September"	"9"			5473
+	"Maryland"	"24"	"October"	"10"	"2023"	"2023"	5591
+"Total"	"Maryland"	"24"	"October"	"10"			5591
+	"Maryland"	"24"	"November"	"11"	"2023"	"2023"	5321
+"Total"	"Maryland"	"24"	"November"	"11"			5321
+	"Maryland"	"24"	"December"	"12"	"2023"	"2023"	5280
+"Total"	"Maryland"	"24"	"December"	"12"			5280
+"Total"	"Maryland"	"24"					76173
+	"Massachusetts"	"25"	"January"	"1"	"2023"	"2023"	5311
+	"Massachusetts"	"25"	"January"	"1"	"2024"	"2024"	5470
+"Total"	"Massachusetts"	"25"	"January"	"1"			10781
+	"Massachusetts"	"25"	"February"	"2"	"2023"	"2023"	4915
+	"Massachusetts"	"25"	"February"	"2"	"2024"	"2024"	5293
+"Total"	"Massachusetts"	"25"	"February"	"2"			10208
+	"Massachusetts"	"25"	"March"	"3"	"2023"	"2023"	5500
+"Total"	"Massachusetts"	"25"	"March"	"3"			5500
+	"Massachusetts"	"25"	"April"	"4"	"2023"	"2023"	5389
+"Total"	"Massachusetts"	"25"	"April"	"4"			5389
+	"Massachusetts"	"25"	"May"	"5"	"2023"	"2023"	5732
+"Total"	"Massachusetts"	"25"	"May"	"5"			5732
+	"Massachusetts"	"25"	"June"	"6"	"2023"	"2023"	5955
+"Total"	"Massachusetts"	"25"	"June"	"6"			5955
+	"Massachusetts"	"25"	"July"	"7"	"2023"	"2023"	5932
+"Total"	"Massachusetts"	"25"	"July"	"7"			5932
+	"Massachusetts"	"25"	"August"	"8"	"2023"	"2023"	6018
+"Total"	"Massachusetts"	"25"	"August"	"8"			6018
+	"Massachusetts"	"25"	"September"	"9"	"2023"	"2023"	5658
+"Total"	"Massachusetts"	"25"	"September"	"9"			5658
+	"Massachusetts"	"25"	"October"	"10"	"2023"	"2023"	5641
+"Total"	"Massachusetts"	"25"	"October"	"10"			5641
+	"Massachusetts"	"25"	"November"	"11"	"2023"	"2023"	5576
+"Total"	"Massachusetts"	"25"	"November"	"11"			5576
+	"Massachusetts"	"25"	"December"	"12"	"2023"	"2023"	5460
+"Total"	"Massachusetts"	"25"	"December"	"12"			5460
+"Total"	"Massachusetts"	"25"					77850
+	"Michigan"	"26"	"January"	"1"	"2023"	"2023"	8027
+	"Michigan"	"26"	"January"	"1"	"2024"	"2024"	7959
+"Total"	"Michigan"	"26"	"January"	"1"			15986
+	"Michigan"	"26"	"February"	"2"	"2023"	"2023"	7617
+	"Michigan"	"26"	"February"	"2"	"2024"	"2024"	7708
+"Total"	"Michigan"	"26"	"February"	"2"			15325
+	"Michigan"	"26"	"March"	"3"	"2023"	"2023"	8450
+"Total"	"Michigan"	"26"	"March"	"3"			8450
+	"Michigan"	"26"	"April"	"4"	"2023"	"2023"	7886
+"Total"	"Michigan"	"26"	"April"	"4"			7886
+	"Michigan"	"26"	"May"	"5"	"2023"	"2023"	8432
+"Total"	"Michigan"	"26"	"May"	"5"			8432
+	"Michigan"	"26"	"June"	"6"	"2023"	"2023"	8631
+"Total"	"Michigan"	"26"	"June"	"6"			8631
+	"Michigan"	"26"	"July"	"7"	"2023"	"2023"	8845
+"Total"	"Michigan"	"26"	"July"	"7"			8845
+	"Michigan"	"26"	"August"	"8"	"2023"	"2023"	8841
+"Total"	"Michigan"	"26"	"August"	"8"			8841
+	"Michigan"	"26"	"September"	"9"	"2023"	"2023"	8268
+"Total"	"Michigan"	"26"	"September"	"9"			8268
+	"Michigan"	"26"	"October"	"10"	"2023"	"2023"	8047
+"Total"	"Michigan"	"26"	"October"	"10"			8047
+	"Michigan"	"26"	"November"	"11"	"2023"	"2023"	8054
+"Total"	"Michigan"	"26"	"November"	"11"			8054
+	"Michigan"	"26"	"December"	"12"	"2023"	"2023"	8010
+"Total"	"Michigan"	"26"	"December"	"12"			8010
+"Total"	"Michigan"	"26"					114775
+	"Minnesota"	"27"	"January"	"1"	"2023"	"2023"	5104
+	"Minnesota"	"27"	"January"	"1"	"2024"	"2024"	4808
+"Total"	"Minnesota"	"27"	"January"	"1"			9912
+	"Minnesota"	"27"	"February"	"2"	"2023"	"2023"	4669
+	"Minnesota"	"27"	"February"	"2"	"2024"	"2024"	4868
+"Total"	"Minnesota"	"27"	"February"	"2"			9537
+	"Minnesota"	"27"	"March"	"3"	"2023"	"2023"	5304
+"Total"	"Minnesota"	"27"	"March"	"3"			5304
+	"Minnesota"	"27"	"April"	"4"	"2023"	"2023"	5007
+"Total"	"Minnesota"	"27"	"April"	"4"			5007
+	"Minnesota"	"27"	"May"	"5"	"2023"	"2023"	5278
+"Total"	"Minnesota"	"27"	"May"	"5"			5278
+	"Minnesota"	"27"	"June"	"6"	"2023"	"2023"	5354
+"Total"	"Minnesota"	"27"	"June"	"6"			5354
+	"Minnesota"	"27"	"July"	"7"	"2023"	"2023"	5305
+"Total"	"Minnesota"	"27"	"July"	"7"			5305
+	"Minnesota"	"27"	"August"	"8"	"2023"	"2023"	5478
+"Total"	"Minnesota"	"27"	"August"	"8"			5478
+	"Minnesota"	"27"	"September"	"9"	"2023"	"2023"	5082
+"Total"	"Minnesota"	"27"	"September"	"9"			5082
+	"Minnesota"	"27"	"October"	"10"	"2023"	"2023"	5215
+"Total"	"Minnesota"	"27"	"October"	"10"			5215
+	"Minnesota"	"27"	"November"	"11"	"2023"	"2023"	5001
+"Total"	"Minnesota"	"27"	"November"	"11"			5001
+	"Minnesota"	"27"	"December"	"12"	"2023"	"2023"	4908
+"Total"	"Minnesota"	"27"	"December"	"12"			4908
+"Total"	"Minnesota"	"27"					71381
+	"Mississippi"	"28"	"January"	"1"	"2023"	"2023"	3054
+	"Mississippi"	"28"	"January"	"1"	"2024"	"2024"	2828
+"Total"	"Mississippi"	"28"	"January"	"1"			5882
+	"Mississippi"	"28"	"February"	"2"	"2023"	"2023"	2570
+	"Mississippi"	"28"	"February"	"2"	"2024"	"2024"	2701
+"Total"	"Mississippi"	"28"	"February"	"2"			5271
+	"Mississippi"	"28"	"March"	"3"	"2023"	"2023"	2823
+"Total"	"Mississippi"	"28"	"March"	"3"			2823
+	"Mississippi"	"28"	"April"	"4"	"2023"	"2023"	2548
+"Total"	"Mississippi"	"28"	"April"	"4"			2548
+	"Mississippi"	"28"	"May"	"5"	"2023"	"2023"	2787
+"Total"	"Mississippi"	"28"	"May"	"5"			2787
+	"Mississippi"	"28"	"June"	"6"	"2023"	"2023"	2990
+"Total"	"Mississippi"	"28"	"June"	"6"			2990
+	"Mississippi"	"28"	"July"	"7"	"2023"	"2023"	2954
+"Total"	"Mississippi"	"28"	"July"	"7"			2954
+	"Mississippi"	"28"	"August"	"8"	"2023"	"2023"	3195
+"Total"	"Mississippi"	"28"	"August"	"8"			3195
+	"Mississippi"	"28"	"September"	"9"	"2023"	"2023"	2928
+"Total"	"Mississippi"	"28"	"September"	"9"			2928
+	"Mississippi"	"28"	"October"	"10"	"2023"	"2023"	2962
+"Total"	"Mississippi"	"28"	"October"	"10"			2962
+	"Mississippi"	"28"	"November"	"11"	"2023"	"2023"	2832
+"Total"	"Mississippi"	"28"	"November"	"11"			2832
+	"Mississippi"	"28"	"December"	"12"	"2023"	"2023"	2815
+"Total"	"Mississippi"	"28"	"December"	"12"			2815
+"Total"	"Mississippi"	"28"					39987
+	"Missouri"	"29"	"January"	"1"	"2023"	"2023"	5581
+	"Missouri"	"29"	"January"	"1"	"2024"	"2024"	5632
+"Total"	"Missouri"	"29"	"January"	"1"			11213
+	"Missouri"	"29"	"February"	"2"	"2023"	"2023"	5013
+	"Missouri"	"29"	"February"	"2"	"2024"	"2024"	5313
+"Total"	"Missouri"	"29"	"February"	"2"			10326
+	"Missouri"	"29"	"March"	"3"	"2023"	"2023"	5570
+"Total"	"Missouri"	"29"	"March"	"3"			5570
+	"Missouri"	"29"	"April"	"4"	"2023"	"2023"	5163
+"Total"	"Missouri"	"29"	"April"	"4"			5163
+	"Missouri"	"29"	"May"	"5"	"2023"	"2023"	5657
+"Total"	"Missouri"	"29"	"May"	"5"			5657
+	"Missouri"	"29"	"June"	"6"	"2023"	"2023"	5634
+"Total"	"Missouri"	"29"	"June"	"6"			5634
+	"Missouri"	"29"	"July"	"7"	"2023"	"2023"	5916
+"Total"	"Missouri"	"29"	"July"	"7"			5916
+	"Missouri"	"29"	"August"	"8"	"2023"	"2023"	6099
+"Total"	"Missouri"	"29"	"August"	"8"			6099
+	"Missouri"	"29"	"September"	"9"	"2023"	"2023"	5603
+"Total"	"Missouri"	"29"	"September"	"9"			5603
+	"Missouri"	"29"	"October"	"10"	"2023"	"2023"	5823
+"Total"	"Missouri"	"29"	"October"	"10"			5823
+	"Missouri"	"29"	"November"	"11"	"2023"	"2023"	5591
+"Total"	"Missouri"	"29"	"November"	"11"			5591
+	"Missouri"	"29"	"December"	"12"	"2023"	"2023"	5468
+"Total"	"Missouri"	"29"	"December"	"12"			5468
+"Total"	"Missouri"	"29"					78063
+	"Montana"	"30"	"January"	"1"	"2023"	"2023"	849
+	"Montana"	"30"	"January"	"1"	"2024"	"2024"	881
+"Total"	"Montana"	"30"	"January"	"1"			1730
+	"Montana"	"30"	"February"	"2"	"2023"	"2023"	835
+	"Montana"	"30"	"February"	"2"	"2024"	"2024"	881
+"Total"	"Montana"	"30"	"February"	"2"			1716
+	"Montana"	"30"	"March"	"3"	"2023"	"2023"	922
+"Total"	"Montana"	"30"	"March"	"3"			922
+	"Montana"	"30"	"April"	"4"	"2023"	"2023"	904
+"Total"	"Montana"	"30"	"April"	"4"			904
+	"Montana"	"30"	"May"	"5"	"2023"	"2023"	961
+"Total"	"Montana"	"30"	"May"	"5"			961
+	"Montana"	"30"	"June"	"6"	"2023"	"2023"	956
+"Total"	"Montana"	"30"	"June"	"6"			956
+	"Montana"	"30"	"July"	"7"	"2023"	"2023"	1035
+"Total"	"Montana"	"30"	"July"	"7"			1035
+	"Montana"	"30"	"August"	"8"	"2023"	"2023"	957
+"Total"	"Montana"	"30"	"August"	"8"			957
+	"Montana"	"30"	"September"	"9"	"2023"	"2023"	920
+"Total"	"Montana"	"30"	"September"	"9"			920
+	"Montana"	"30"	"October"	"10"	"2023"	"2023"	979
+"Total"	"Montana"	"30"	"October"	"10"			979
+	"Montana"	"30"	"November"	"11"	"2023"	"2023"	868
+"Total"	"Montana"	"30"	"November"	"11"			868
+	"Montana"	"30"	"December"	"12"	"2023"	"2023"	886
+"Total"	"Montana"	"30"	"December"	"12"			886
+"Total"	"Montana"	"30"					12834
+	"Nebraska"	"31"	"January"	"1"	"2023"	"2023"	2023
+	"Nebraska"	"31"	"January"	"1"	"2024"	"2024"	2010
+"Total"	"Nebraska"	"31"	"January"	"1"			4033
+	"Nebraska"	"31"	"February"	"2"	"2023"	"2023"	1798
+	"Nebraska"	"31"	"February"	"2"	"2024"	"2024"	1974
+"Total"	"Nebraska"	"31"	"February"	"2"			3772
+	"Nebraska"	"31"	"March"	"3"	"2023"	"2023"	2111
+"Total"	"Nebraska"	"31"	"March"	"3"			2111
+	"Nebraska"	"31"	"April"	"4"	"2023"	"2023"	1957
+"Total"	"Nebraska"	"31"	"April"	"4"			1957
+	"Nebraska"	"31"	"May"	"5"	"2023"	"2023"	1994
+"Total"	"Nebraska"	"31"	"May"	"5"			1994
+	"Nebraska"	"31"	"June"	"6"	"2023"	"2023"	2124
+"Total"	"Nebraska"	"31"	"June"	"6"			2124
+	"Nebraska"	"31"	"July"	"7"	"2023"	"2023"	2039
+"Total"	"Nebraska"	"31"	"July"	"7"			2039
+	"Nebraska"	"31"	"August"	"8"	"2023"	"2023"	2109
+"Total"	"Nebraska"	"31"	"August"	"8"			2109
+	"Nebraska"	"31"	"September"	"9"	"2023"	"2023"	1924
+"Total"	"Nebraska"	"31"	"September"	"9"			1924
+	"Nebraska"	"31"	"October"	"10"	"2023"	"2023"	2014
+"Total"	"Nebraska"	"31"	"October"	"10"			2014
+	"Nebraska"	"31"	"November"	"11"	"2023"	"2023"	2027
+"Total"	"Nebraska"	"31"	"November"	"11"			2027
+	"Nebraska"	"31"	"December"	"12"	"2023"	"2023"	1984
+"Total"	"Nebraska"	"31"	"December"	"12"			1984
+"Total"	"Nebraska"	"31"					28088
+	"Nevada"	"32"	"January"	"1"	"2023"	"2023"	2717
+	"Nevada"	"32"	"January"	"1"	"2024"	"2024"	2560
+"Total"	"Nevada"	"32"	"January"	"1"			5277
+	"Nevada"	"32"	"February"	"2"	"2023"	"2023"	2451
+	"Nevada"	"32"	"February"	"2"	"2024"	"2024"	2492
+"Total"	"Nevada"	"32"	"February"	"2"			4943
+	"Nevada"	"32"	"March"	"3"	"2023"	"2023"	2590
+"Total"	"Nevada"	"32"	"March"	"3"			2590
+	"Nevada"	"32"	"April"	"4"	"2023"	"2023"	2468
+"Total"	"Nevada"	"32"	"April"	"4"			2468
+	"Nevada"	"32"	"May"	"5"	"2023"	"2023"	2558
+"Total"	"Nevada"	"32"	"May"	"5"			2558
+	"Nevada"	"32"	"June"	"6"	"2023"	"2023"	2638
+"Total"	"Nevada"	"32"	"June"	"6"			2638
+	"Nevada"	"32"	"July"	"7"	"2023"	"2023"	2656
+"Total"	"Nevada"	"32"	"July"	"7"			2656
+	"Nevada"	"32"	"August"	"8"	"2023"	"2023"	2874
+"Total"	"Nevada"	"32"	"August"	"8"			2874
+	"Nevada"	"32"	"September"	"9"	"2023"	"2023"	2702
+"Total"	"Nevada"	"32"	"September"	"9"			2702
+	"Nevada"	"32"	"October"	"10"	"2023"	"2023"	2760
+"Total"	"Nevada"	"32"	"October"	"10"			2760
+	"Nevada"	"32"	"November"	"11"	"2023"	"2023"	2661
+"Total"	"Nevada"	"32"	"November"	"11"			2661
+	"Nevada"	"32"	"December"	"12"	"2023"	"2023"	2708
+"Total"	"Nevada"	"32"	"December"	"12"			2708
+"Total"	"Nevada"	"32"					36835
+	"New Hampshire"	"33"	"January"	"1"	"2023"	"2023"	930
+	"New Hampshire"	"33"	"January"	"1"	"2024"	"2024"	935
+"Total"	"New Hampshire"	"33"	"January"	"1"			1865
+	"New Hampshire"	"33"	"February"	"2"	"2023"	"2023"	874
+	"New Hampshire"	"33"	"February"	"2"	"2024"	"2024"	965
+"Total"	"New Hampshire"	"33"	"February"	"2"			1839
+	"New Hampshire"	"33"	"March"	"3"	"2023"	"2023"	1006
+"Total"	"New Hampshire"	"33"	"March"	"3"			1006
+	"New Hampshire"	"33"	"April"	"4"	"2023"	"2023"	969
+"Total"	"New Hampshire"	"33"	"April"	"4"			969
+	"New Hampshire"	"33"	"May"	"5"	"2023"	"2023"	1012
+"Total"	"New Hampshire"	"33"	"May"	"5"			1012
+	"New Hampshire"	"33"	"June"	"6"	"2023"	"2023"	1066
+"Total"	"New Hampshire"	"33"	"June"	"6"			1066
+	"New Hampshire"	"33"	"July"	"7"	"2023"	"2023"	1084
+"Total"	"New Hampshire"	"33"	"July"	"7"			1084
+	"New Hampshire"	"33"	"August"	"8"	"2023"	"2023"	1108
+"Total"	"New Hampshire"	"33"	"August"	"8"			1108
+	"New Hampshire"	"33"	"September"	"9"	"2023"	"2023"	979
+"Total"	"New Hampshire"	"33"	"September"	"9"			979
+	"New Hampshire"	"33"	"October"	"10"	"2023"	"2023"	1034
+"Total"	"New Hampshire"	"33"	"October"	"10"			1034
+	"New Hampshire"	"33"	"November"	"11"	"2023"	"2023"	952
+"Total"	"New Hampshire"	"33"	"November"	"11"			952
+	"New Hampshire"	"33"	"December"	"12"	"2023"	"2023"	921
+"Total"	"New Hampshire"	"33"	"December"	"12"			921
+"Total"	"New Hampshire"	"33"					13835
+	"New Jersey"	"34"	"January"	"1"	"2023"	"2023"	8251
+	"New Jersey"	"34"	"January"	"1"	"2024"	"2024"	8325
+"Total"	"New Jersey"	"34"	"January"	"1"			16576
+	"New Jersey"	"34"	"February"	"2"	"2023"	"2023"	7684
+	"New Jersey"	"34"	"February"	"2"	"2024"	"2024"	7860
+"Total"	"New Jersey"	"34"	"February"	"2"			15544
+	"New Jersey"	"34"	"March"	"3"	"2023"	"2023"	8363
+"Total"	"New Jersey"	"34"	"March"	"3"			8363
+	"New Jersey"	"34"	"April"	"4"	"2023"	"2023"	7726
+"Total"	"New Jersey"	"34"	"April"	"4"			7726
+	"New Jersey"	"34"	"May"	"5"	"2023"	"2023"	8586
+"Total"	"New Jersey"	"34"	"May"	"5"			8586
+	"New Jersey"	"34"	"June"	"6"	"2023"	"2023"	8658
+"Total"	"New Jersey"	"34"	"June"	"6"			8658
+	"New Jersey"	"34"	"July"	"7"	"2023"	"2023"	8916
+"Total"	"New Jersey"	"34"	"July"	"7"			8916
+	"New Jersey"	"34"	"August"	"8"	"2023"	"2023"	8956
+"Total"	"New Jersey"	"34"	"August"	"8"			8956
+	"New Jersey"	"34"	"September"	"9"	"2023"	"2023"	8617
+"Total"	"New Jersey"	"34"	"September"	"9"			8617
+	"New Jersey"	"34"	"October"	"10"	"2023"	"2023"	8662
+"Total"	"New Jersey"	"34"	"October"	"10"			8662
+	"New Jersey"	"34"	"November"	"11"	"2023"	"2023"	8172
+"Total"	"New Jersey"	"34"	"November"	"11"			8172
+	"New Jersey"	"34"	"December"	"12"	"2023"	"2023"	8412
+"Total"	"New Jersey"	"34"	"December"	"12"			8412
+"Total"	"New Jersey"	"34"					117188
+	"New Mexico"	"35"	"January"	"1"	"2023"	"2023"	1739
+	"New Mexico"	"35"	"January"	"1"	"2024"	"2024"	1748
+"Total"	"New Mexico"	"35"	"January"	"1"			3487
+	"New Mexico"	"35"	"February"	"2"	"2023"	"2023"	1602
+	"New Mexico"	"35"	"February"	"2"	"2024"	"2024"	1482
+"Total"	"New Mexico"	"35"	"February"	"2"			3084
+	"New Mexico"	"35"	"March"	"3"	"2023"	"2023"	1811
+"Total"	"New Mexico"	"35"	"March"	"3"			1811
+	"New Mexico"	"35"	"April"	"4"	"2023"	"2023"	1599
+"Total"	"New Mexico"	"35"	"April"	"4"			1599
+	"New Mexico"	"35"	"May"	"5"	"2023"	"2023"	1773
+"Total"	"New Mexico"	"35"	"May"	"5"			1773
+	"New Mexico"	"35"	"June"	"6"	"2023"	"2023"	1757
+"Total"	"New Mexico"	"35"	"June"	"6"			1757
+	"New Mexico"	"35"	"July"	"7"	"2023"	"2023"	1864
+"Total"	"New Mexico"	"35"	"July"	"7"			1864
+	"New Mexico"	"35"	"August"	"8"	"2023"	"2023"	1895
+"Total"	"New Mexico"	"35"	"August"	"8"			1895
+	"New Mexico"	"35"	"September"	"9"	"2023"	"2023"	1734
+"Total"	"New Mexico"	"35"	"September"	"9"			1734
+	"New Mexico"	"35"	"October"	"10"	"2023"	"2023"	1701
+"Total"	"New Mexico"	"35"	"October"	"10"			1701
+	"New Mexico"	"35"	"November"	"11"	"2023"	"2023"	1715
+"Total"	"New Mexico"	"35"	"November"	"11"			1715
+	"New Mexico"	"35"	"December"	"12"	"2023"	"2023"	1752
+"Total"	"New Mexico"	"35"	"December"	"12"			1752
+"Total"	"New Mexico"	"35"					24172
+	"New York"	"36"	"January"	"1"	"2023"	"2023"	16598
+	"New York"	"36"	"January"	"1"	"2024"	"2024"	16830
+"Total"	"New York"	"36"	"January"	"1"			33428
+	"New York"	"36"	"February"	"2"	"2023"	"2023"	14811
+	"New York"	"36"	"February"	"2"	"2024"	"2024"	15795
+"Total"	"New York"	"36"	"February"	"2"			30606
+	"New York"	"36"	"March"	"3"	"2023"	"2023"	17026
+"Total"	"New York"	"36"	"March"	"3"			17026
+	"New York"	"36"	"April"	"4"	"2023"	"2023"	16008
+"Total"	"New York"	"36"	"April"	"4"			16008
+	"New York"	"36"	"May"	"5"	"2023"	"2023"	17388
+"Total"	"New York"	"36"	"May"	"5"			17388
+	"New York"	"36"	"June"	"6"	"2023"	"2023"	17446
+"Total"	"New York"	"36"	"June"	"6"			17446
+	"New York"	"36"	"July"	"7"	"2023"	"2023"	17803
+"Total"	"New York"	"36"	"July"	"7"			17803
+	"New York"	"36"	"August"	"8"	"2023"	"2023"	17978
+"Total"	"New York"	"36"	"August"	"8"			17978
+	"New York"	"36"	"September"	"9"	"2023"	"2023"	17169
+"Total"	"New York"	"36"	"September"	"9"			17169
+	"New York"	"36"	"October"	"10"	"2023"	"2023"	17605
+"Total"	"New York"	"36"	"October"	"10"			17605
+	"New York"	"36"	"November"	"11"	"2023"	"2023"	17114
+"Total"	"New York"	"36"	"November"	"11"			17114
+	"New York"	"36"	"December"	"12"	"2023"	"2023"	16613
+"Total"	"New York"	"36"	"December"	"12"			16613
+"Total"	"New York"	"36"					236184
+	"North Carolina"	"37"	"January"	"1"	"2023"	"2023"	10162
+	"North Carolina"	"37"	"January"	"1"	"2024"	"2024"	10061
+"Total"	"North Carolina"	"37"	"January"	"1"			20223
+	"North Carolina"	"37"	"February"	"2"	"2023"	"2023"	9015
+	"North Carolina"	"37"	"February"	"2"	"2024"	"2024"	9280
+"Total"	"North Carolina"	"37"	"February"	"2"			18295
+	"North Carolina"	"37"	"March"	"3"	"2023"	"2023"	9801
+"Total"	"North Carolina"	"37"	"March"	"3"			9801
+	"North Carolina"	"37"	"April"	"4"	"2023"	"2023"	9243
+"Total"	"North Carolina"	"37"	"April"	"4"			9243
+	"North Carolina"	"37"	"May"	"5"	"2023"	"2023"	9980
+"Total"	"North Carolina"	"37"	"May"	"5"			9980
+	"North Carolina"	"37"	"June"	"6"	"2023"	"2023"	9969
+"Total"	"North Carolina"	"37"	"June"	"6"			9969
+	"North Carolina"	"37"	"July"	"7"	"2023"	"2023"	10495
+"Total"	"North Carolina"	"37"	"July"	"7"			10495
+	"North Carolina"	"37"	"August"	"8"	"2023"	"2023"	10760
+"Total"	"North Carolina"	"37"	"August"	"8"			10760
+	"North Carolina"	"37"	"September"	"9"	"2023"	"2023"	10245
+"Total"	"North Carolina"	"37"	"September"	"9"			10245
+	"North Carolina"	"37"	"October"	"10"	"2023"	"2023"	10253
+"Total"	"North Carolina"	"37"	"October"	"10"			10253
+	"North Carolina"	"37"	"November"	"11"	"2023"	"2023"	9995
+"Total"	"North Carolina"	"37"	"November"	"11"			9995
+	"North Carolina"	"37"	"December"	"12"	"2023"	"2023"	10026
+"Total"	"North Carolina"	"37"	"December"	"12"			10026
+"Total"	"North Carolina"	"37"					139285
+	"North Dakota"	"38"	"January"	"1"	"2023"	"2023"	800
+	"North Dakota"	"38"	"January"	"1"	"2024"	"2024"	783
+"Total"	"North Dakota"	"38"	"January"	"1"			1583
+	"North Dakota"	"38"	"February"	"2"	"2023"	"2023"	725
+	"North Dakota"	"38"	"February"	"2"	"2024"	"2024"	738
+"Total"	"North Dakota"	"38"	"February"	"2"			1463
+	"North Dakota"	"38"	"March"	"3"	"2023"	"2023"	816
+"Total"	"North Dakota"	"38"	"March"	"3"			816
+	"North Dakota"	"38"	"April"	"4"	"2023"	"2023"	826
+"Total"	"North Dakota"	"38"	"April"	"4"			826
+	"North Dakota"	"38"	"May"	"5"	"2023"	"2023"	858
+"Total"	"North Dakota"	"38"	"May"	"5"			858
+	"North Dakota"	"38"	"June"	"6"	"2023"	"2023"	820
+"Total"	"North Dakota"	"38"	"June"	"6"			820
+	"North Dakota"	"38"	"July"	"7"	"2023"	"2023"	839
+"Total"	"North Dakota"	"38"	"July"	"7"			839
+	"North Dakota"	"38"	"August"	"8"	"2023"	"2023"	832
+"Total"	"North Dakota"	"38"	"August"	"8"			832
+	"North Dakota"	"38"	"September"	"9"	"2023"	"2023"	764
+"Total"	"North Dakota"	"38"	"September"	"9"			764
+	"North Dakota"	"38"	"October"	"10"	"2023"	"2023"	795
+"Total"	"North Dakota"	"38"	"October"	"10"			795
+	"North Dakota"	"38"	"November"	"11"	"2023"	"2023"	797
+"Total"	"North Dakota"	"38"	"November"	"11"			797
+	"North Dakota"	"38"	"December"	"12"	"2023"	"2023"	774
+"Total"	"North Dakota"	"38"	"December"	"12"			774
+"Total"	"North Dakota"	"38"					11167
+	"Ohio"	"39"	"January"	"1"	"2023"	"2023"	10651
+	"Ohio"	"39"	"January"	"1"	"2024"	"2024"	10179
+"Total"	"Ohio"	"39"	"January"	"1"			20830
+	"Ohio"	"39"	"February"	"2"	"2023"	"2023"	9669
+	"Ohio"	"39"	"February"	"2"	"2024"	"2024"	9741
+"Total"	"Ohio"	"39"	"February"	"2"			19410
+	"Ohio"	"39"	"March"	"3"	"2023"	"2023"	10896
+"Total"	"Ohio"	"39"	"March"	"3"			10896
+	"Ohio"	"39"	"April"	"4"	"2023"	"2023"	10120
+"Total"	"Ohio"	"39"	"April"	"4"			10120
+	"Ohio"	"39"	"May"	"5"	"2023"	"2023"	10551
+"Total"	"Ohio"	"39"	"May"	"5"			10551
+	"Ohio"	"39"	"June"	"6"	"2023"	"2023"	10805
+"Total"	"Ohio"	"39"	"June"	"6"			10805
+	"Ohio"	"39"	"July"	"7"	"2023"	"2023"	11189
+"Total"	"Ohio"	"39"	"July"	"7"			11189
+	"Ohio"	"39"	"August"	"8"	"2023"	"2023"	11112
+"Total"	"Ohio"	"39"	"August"	"8"			11112
+	"Ohio"	"39"	"September"	"9"	"2023"	"2023"	10782
+"Total"	"Ohio"	"39"	"September"	"9"			10782
+	"Ohio"	"39"	"October"	"10"	"2023"	"2023"	10770
+"Total"	"Ohio"	"39"	"October"	"10"			10770
+	"Ohio"	"39"	"November"	"11"	"2023"	"2023"	10102
+"Total"	"Ohio"	"39"	"November"	"11"			10102
+	"Ohio"	"39"	"December"	"12"	"2023"	"2023"	10249
+"Total"	"Ohio"	"39"	"December"	"12"			10249
+"Total"	"Ohio"	"39"					146816
+	"Oklahoma"	"40"	"January"	"1"	"2023"	"2023"	4066
+	"Oklahoma"	"40"	"January"	"1"	"2024"	"2024"	3907
+"Total"	"Oklahoma"	"40"	"January"	"1"			7973
+	"Oklahoma"	"40"	"February"	"2"	"2023"	"2023"	3636
+	"Oklahoma"	"40"	"February"	"2"	"2024"	"2024"	3690
+"Total"	"Oklahoma"	"40"	"February"	"2"			7326
+	"Oklahoma"	"40"	"March"	"3"	"2023"	"2023"	3965
+"Total"	"Oklahoma"	"40"	"March"	"3"			3965
+	"Oklahoma"	"40"	"April"	"4"	"2023"	"2023"	3665
+"Total"	"Oklahoma"	"40"	"April"	"4"			3665
+	"Oklahoma"	"40"	"May"	"5"	"2023"	"2023"	4003
+"Total"	"Oklahoma"	"40"	"May"	"5"			4003
+	"Oklahoma"	"40"	"June"	"6"	"2023"	"2023"	4052
+"Total"	"Oklahoma"	"40"	"June"	"6"			4052
+	"Oklahoma"	"40"	"July"	"7"	"2023"	"2023"	4187
+"Total"	"Oklahoma"	"40"	"July"	"7"			4187
+	"Oklahoma"	"40"	"August"	"8"	"2023"	"2023"	4184
+"Total"	"Oklahoma"	"40"	"August"	"8"			4184
+	"Oklahoma"	"40"	"September"	"9"	"2023"	"2023"	3951
+"Total"	"Oklahoma"	"40"	"September"	"9"			3951
+	"Oklahoma"	"40"	"October"	"10"	"2023"	"2023"	4118
+"Total"	"Oklahoma"	"40"	"October"	"10"			4118
+	"Oklahoma"	"40"	"November"	"11"	"2023"	"2023"	3988
+"Total"	"Oklahoma"	"40"	"November"	"11"			3988
+	"Oklahoma"	"40"	"December"	"12"	"2023"	"2023"	4090
+"Total"	"Oklahoma"	"40"	"December"	"12"			4090
+"Total"	"Oklahoma"	"40"					55502
+	"Oregon"	"41"	"January"	"1"	"2023"	"2023"	3084
+	"Oregon"	"41"	"January"	"1"	"2024"	"2024"	3119
+"Total"	"Oregon"	"41"	"January"	"1"			6203
+	"Oregon"	"41"	"February"	"2"	"2023"	"2023"	2776
+	"Oregon"	"41"	"February"	"2"	"2024"	"2024"	2882
+"Total"	"Oregon"	"41"	"February"	"2"			5658
+	"Oregon"	"41"	"March"	"3"	"2023"	"2023"	3140
+"Total"	"Oregon"	"41"	"March"	"3"			3140
+	"Oregon"	"41"	"April"	"4"	"2023"	"2023"	3077
+"Total"	"Oregon"	"41"	"April"	"4"			3077
+	"Oregon"	"41"	"May"	"5"	"2023"	"2023"	3295
+"Total"	"Oregon"	"41"	"May"	"5"			3295
+	"Oregon"	"41"	"June"	"6"	"2023"	"2023"	3250
+"Total"	"Oregon"	"41"	"June"	"6"			3250
+	"Oregon"	"41"	"July"	"7"	"2023"	"2023"	3395
+"Total"	"Oregon"	"41"	"July"	"7"			3395
+	"Oregon"	"41"	"August"	"8"	"2023"	"2023"	3370
+"Total"	"Oregon"	"41"	"August"	"8"			3370
+	"Oregon"	"41"	"September"	"9"	"2023"	"2023"	3173
+"Total"	"Oregon"	"41"	"September"	"9"			3173
+	"Oregon"	"41"	"October"	"10"	"2023"	"2023"	3349
+"Total"	"Oregon"	"41"	"October"	"10"			3349
+	"Oregon"	"41"	"November"	"11"	"2023"	"2023"	3194
+"Total"	"Oregon"	"41"	"November"	"11"			3194
+	"Oregon"	"41"	"December"	"12"	"2023"	"2023"	3178
+"Total"	"Oregon"	"41"	"December"	"12"			3178
+"Total"	"Oregon"	"41"					44282
+	"Pennsylvania"	"42"	"January"	"1"	"2023"	"2023"	10379
+	"Pennsylvania"	"42"	"January"	"1"	"2024"	"2024"	10587
+"Total"	"Pennsylvania"	"42"	"January"	"1"			20966
+	"Pennsylvania"	"42"	"February"	"2"	"2023"	"2023"	9619
+	"Pennsylvania"	"42"	"February"	"2"	"2024"	"2024"	9539
+"Total"	"Pennsylvania"	"42"	"February"	"2"			19158
+	"Pennsylvania"	"42"	"March"	"3"	"2023"	"2023"	10822
+"Total"	"Pennsylvania"	"42"	"March"	"3"			10822
+	"Pennsylvania"	"42"	"April"	"4"	"2023"	"2023"	9907
+"Total"	"Pennsylvania"	"42"	"April"	"4"			9907
+	"Pennsylvania"	"42"	"May"	"5"	"2023"	"2023"	10621
+"Total"	"Pennsylvania"	"42"	"May"	"5"			10621
+	"Pennsylvania"	"42"	"June"	"6"	"2023"	"2023"	10808
+"Total"	"Pennsylvania"	"42"	"June"	"6"			10808
+	"Pennsylvania"	"42"	"July"	"7"	"2023"	"2023"	11035
+"Total"	"Pennsylvania"	"42"	"July"	"7"			11035
+	"Pennsylvania"	"42"	"August"	"8"	"2023"	"2023"	11360
+"Total"	"Pennsylvania"	"42"	"August"	"8"			11360
+	"Pennsylvania"	"42"	"September"	"9"	"2023"	"2023"	10812
+"Total"	"Pennsylvania"	"42"	"September"	"9"			10812
+	"Pennsylvania"	"42"	"October"	"10"	"2023"	"2023"	10908
+"Total"	"Pennsylvania"	"42"	"October"	"10"			10908
+	"Pennsylvania"	"42"	"November"	"11"	"2023"	"2023"	10237
+"Total"	"Pennsylvania"	"42"	"November"	"11"			10237
+	"Pennsylvania"	"42"	"December"	"12"	"2023"	"2023"	10421
+"Total"	"Pennsylvania"	"42"	"December"	"12"			10421
+"Total"	"Pennsylvania"	"42"					147055
+	"Rhode Island"	"44"	"January"	"1"	"2023"	"2023"	812
+	"Rhode Island"	"44"	"January"	"1"	"2024"	"2024"	808
+"Total"	"Rhode Island"	"44"	"January"	"1"			1620
+	"Rhode Island"	"44"	"February"	"2"	"2023"	"2023"	675
+	"Rhode Island"	"44"	"February"	"2"	"2024"	"2024"	716
+"Total"	"Rhode Island"	"44"	"February"	"2"			1391
+	"Rhode Island"	"44"	"March"	"3"	"2023"	"2023"	796
+"Total"	"Rhode Island"	"44"	"March"	"3"			796
+	"Rhode Island"	"44"	"April"	"4"	"2023"	"2023"	780
+"Total"	"Rhode Island"	"44"	"April"	"4"			780
+	"Rhode Island"	"44"	"May"	"5"	"2023"	"2023"	837
+"Total"	"Rhode Island"	"44"	"May"	"5"			837
+	"Rhode Island"	"44"	"June"	"6"	"2023"	"2023"	900
+"Total"	"Rhode Island"	"44"	"June"	"6"			900
+	"Rhode Island"	"44"	"July"	"7"	"2023"	"2023"	854
+"Total"	"Rhode Island"	"44"	"July"	"7"			854
+	"Rhode Island"	"44"	"August"	"8"	"2023"	"2023"	910
+"Total"	"Rhode Island"	"44"	"August"	"8"			910
+	"Rhode Island"	"44"	"September"	"9"	"2023"	"2023"	784
+"Total"	"Rhode Island"	"44"	"September"	"9"			784
+	"Rhode Island"	"44"	"October"	"10"	"2023"	"2023"	845
+"Total"	"Rhode Island"	"44"	"October"	"10"			845
+	"Rhode Island"	"44"	"November"	"11"	"2023"	"2023"	838
+"Total"	"Rhode Island"	"44"	"November"	"11"			838
+	"Rhode Island"	"44"	"December"	"12"	"2023"	"2023"	774
+"Total"	"Rhode Island"	"44"	"December"	"12"			774
+"Total"	"Rhode Island"	"44"					11329
+	"South Carolina"	"45"	"January"	"1"	"2023"	"2023"	4857
+	"South Carolina"	"45"	"January"	"1"	"2024"	"2024"	4866
+"Total"	"South Carolina"	"45"	"January"	"1"			9723
+	"South Carolina"	"45"	"February"	"2"	"2023"	"2023"	4256
+	"South Carolina"	"45"	"February"	"2"	"2024"	"2024"	4480
+"Total"	"South Carolina"	"45"	"February"	"2"			8736
+	"South Carolina"	"45"	"March"	"3"	"2023"	"2023"	4821
+"Total"	"South Carolina"	"45"	"March"	"3"			4821
+	"South Carolina"	"45"	"April"	"4"	"2023"	"2023"	4372
+"Total"	"South Carolina"	"45"	"April"	"4"			4372
+	"South Carolina"	"45"	"May"	"5"	"2023"	"2023"	4730
+"Total"	"South Carolina"	"45"	"May"	"5"			4730
+	"South Carolina"	"45"	"June"	"6"	"2023"	"2023"	4972
+"Total"	"South Carolina"	"45"	"June"	"6"			4972
+	"South Carolina"	"45"	"July"	"7"	"2023"	"2023"	4802
+"Total"	"South Carolina"	"45"	"July"	"7"			4802
+	"South Carolina"	"45"	"August"	"8"	"2023"	"2023"	5180
+"Total"	"South Carolina"	"45"	"August"	"8"			5180
+	"South Carolina"	"45"	"September"	"9"	"2023"	"2023"	5068
+"Total"	"South Carolina"	"45"	"September"	"9"			5068
+	"South Carolina"	"45"	"October"	"10"	"2023"	"2023"	4956
+"Total"	"South Carolina"	"45"	"October"	"10"			4956
+	"South Carolina"	"45"	"November"	"11"	"2023"	"2023"	4896
+"Total"	"South Carolina"	"45"	"November"	"11"			4896
+	"South Carolina"	"45"	"December"	"12"	"2023"	"2023"	4801
+"Total"	"South Carolina"	"45"	"December"	"12"			4801
+"Total"	"South Carolina"	"45"					67057
+	"South Dakota"	"46"	"January"	"1"	"2023"	"2023"	916
+	"South Dakota"	"46"	"January"	"1"	"2024"	"2024"	955
+"Total"	"South Dakota"	"46"	"January"	"1"			1871
+	"South Dakota"	"46"	"February"	"2"	"2023"	"2023"	821
+	"South Dakota"	"46"	"February"	"2"	"2024"	"2024"	859
+"Total"	"South Dakota"	"46"	"February"	"2"			1680
+	"South Dakota"	"46"	"March"	"3"	"2023"	"2023"	921
+"Total"	"South Dakota"	"46"	"March"	"3"			921
+	"South Dakota"	"46"	"April"	"4"	"2023"	"2023"	912
+"Total"	"South Dakota"	"46"	"April"	"4"			912
+	"South Dakota"	"46"	"May"	"5"	"2023"	"2023"	1061
+"Total"	"South Dakota"	"46"	"May"	"5"			1061
+	"South Dakota"	"46"	"June"	"6"	"2023"	"2023"	928
+"Total"	"South Dakota"	"46"	"June"	"6"			928
+	"South Dakota"	"46"	"July"	"7"	"2023"	"2023"	989
+"Total"	"South Dakota"	"46"	"July"	"7"			989
+	"South Dakota"	"46"	"August"	"8"	"2023"	"2023"	1006
+"Total"	"South Dakota"	"46"	"August"	"8"			1006
+	"South Dakota"	"46"	"September"	"9"	"2023"	"2023"	916
+"Total"	"South Dakota"	"46"	"September"	"9"			916
+	"South Dakota"	"46"	"October"	"10"	"2023"	"2023"	930
+"Total"	"South Dakota"	"46"	"October"	"10"			930
+	"South Dakota"	"46"	"November"	"11"	"2023"	"2023"	911
+"Total"	"South Dakota"	"46"	"November"	"11"			911
+	"South Dakota"	"46"	"December"	"12"	"2023"	"2023"	889
+"Total"	"South Dakota"	"46"	"December"	"12"			889
+"Total"	"South Dakota"	"46"					13014
+	"Tennessee"	"47"	"January"	"1"	"2023"	"2023"	6959
+	"Tennessee"	"47"	"January"	"1"	"2024"	"2024"	6737
+"Total"	"Tennessee"	"47"	"January"	"1"			13696
+	"Tennessee"	"47"	"February"	"2"	"2023"	"2023"	6341
+	"Tennessee"	"47"	"February"	"2"	"2024"	"2024"	6476
+"Total"	"Tennessee"	"47"	"February"	"2"			12817
+	"Tennessee"	"47"	"March"	"3"	"2023"	"2023"	6865
+"Total"	"Tennessee"	"47"	"March"	"3"			6865
+	"Tennessee"	"47"	"April"	"4"	"2023"	"2023"	6331
+"Total"	"Tennessee"	"47"	"April"	"4"			6331
+	"Tennessee"	"47"	"May"	"5"	"2023"	"2023"	6821
+"Total"	"Tennessee"	"47"	"May"	"5"			6821
+	"Tennessee"	"47"	"June"	"6"	"2023"	"2023"	6990
+"Total"	"Tennessee"	"47"	"June"	"6"			6990
+	"Tennessee"	"47"	"July"	"7"	"2023"	"2023"	7282
+"Total"	"Tennessee"	"47"	"July"	"7"			7282
+	"Tennessee"	"47"	"August"	"8"	"2023"	"2023"	7679
+"Total"	"Tennessee"	"47"	"August"	"8"			7679
+	"Tennessee"	"47"	"September"	"9"	"2023"	"2023"	6948
+"Total"	"Tennessee"	"47"	"September"	"9"			6948
+	"Tennessee"	"47"	"October"	"10"	"2023"	"2023"	7075
+"Total"	"Tennessee"	"47"	"October"	"10"			7075
+	"Tennessee"	"47"	"November"	"11"	"2023"	"2023"	6815
+"Total"	"Tennessee"	"47"	"November"	"11"			6815
+	"Tennessee"	"47"	"December"	"12"	"2023"	"2023"	6905
+"Total"	"Tennessee"	"47"	"December"	"12"			6905
+"Total"	"Tennessee"	"47"					96224
+	"Texas"	"48"	"January"	"1"	"2023"	"2023"	32538
+	"Texas"	"48"	"January"	"1"	"2024"	"2024"	32252
+"Total"	"Texas"	"48"	"January"	"1"			64790
+	"Texas"	"48"	"February"	"2"	"2023"	"2023"	28953
+	"Texas"	"48"	"February"	"2"	"2024"	"2024"	30010
+"Total"	"Texas"	"48"	"February"	"2"			58963
+	"Texas"	"48"	"March"	"3"	"2023"	"2023"	31401
+"Total"	"Texas"	"48"	"March"	"3"			31401
+	"Texas"	"48"	"April"	"4"	"2023"	"2023"	28877
+"Total"	"Texas"	"48"	"April"	"4"			28877
+	"Texas"	"48"	"May"	"5"	"2023"	"2023"	31653
+"Total"	"Texas"	"48"	"May"	"5"			31653
+	"Texas"	"48"	"June"	"6"	"2023"	"2023"	32206
+"Total"	"Texas"	"48"	"June"	"6"			32206
+	"Texas"	"48"	"July"	"7"	"2023"	"2023"	33162
+"Total"	"Texas"	"48"	"July"	"7"			33162
+	"Texas"	"48"	"August"	"8"	"2023"	"2023"	35428
+"Total"	"Texas"	"48"	"August"	"8"			35428
+	"Texas"	"48"	"September"	"9"	"2023"	"2023"	33654
+"Total"	"Texas"	"48"	"September"	"9"			33654
+	"Texas"	"48"	"October"	"10"	"2023"	"2023"	34069
+"Total"	"Texas"	"48"	"October"	"10"			34069
+	"Texas"	"48"	"November"	"11"	"2023"	"2023"	33204
+"Total"	"Texas"	"48"	"November"	"11"			33204
+	"Texas"	"48"	"December"	"12"	"2023"	"2023"	32729
+"Total"	"Texas"	"48"	"December"	"12"			32729
+"Total"	"Texas"	"48"					450136
+	"Utah"	"49"	"January"	"1"	"2023"	"2023"	3502
+	"Utah"	"49"	"January"	"1"	"2024"	"2024"	3699
+"Total"	"Utah"	"49"	"January"	"1"			7201
+	"Utah"	"49"	"February"	"2"	"2023"	"2023"	3472
+	"Utah"	"49"	"February"	"2"	"2024"	"2024"	3614
+"Total"	"Utah"	"49"	"February"	"2"			7086
+	"Utah"	"49"	"March"	"3"	"2023"	"2023"	3961
+"Total"	"Utah"	"49"	"March"	"3"			3961
+	"Utah"	"49"	"April"	"4"	"2023"	"2023"	3613
+"Total"	"Utah"	"49"	"April"	"4"			3613
+	"Utah"	"49"	"May"	"5"	"2023"	"2023"	3901
+"Total"	"Utah"	"49"	"May"	"5"			3901
+	"Utah"	"49"	"June"	"6"	"2023"	"2023"	3915
+"Total"	"Utah"	"49"	"June"	"6"			3915
+	"Utah"	"49"	"July"	"7"	"2023"	"2023"	3956
+"Total"	"Utah"	"49"	"July"	"7"			3956
+	"Utah"	"49"	"August"	"8"	"2023"	"2023"	4123
+"Total"	"Utah"	"49"	"August"	"8"			4123
+	"Utah"	"49"	"September"	"9"	"2023"	"2023"	3778
+"Total"	"Utah"	"49"	"September"	"9"			3778
+	"Utah"	"49"	"October"	"10"	"2023"	"2023"	3788
+"Total"	"Utah"	"49"	"October"	"10"			3788
+	"Utah"	"49"	"November"	"11"	"2023"	"2023"	3551
+"Total"	"Utah"	"49"	"November"	"11"			3551
+	"Utah"	"49"	"December"	"12"	"2023"	"2023"	3458
+"Total"	"Utah"	"49"	"December"	"12"			3458
+"Total"	"Utah"	"49"					52331
+	"Vermont"	"50"	"January"	"1"	"2023"	"2023"	391
+	"Vermont"	"50"	"January"	"1"	"2024"	"2024"	383
+"Total"	"Vermont"	"50"	"January"	"1"			774
+	"Vermont"	"50"	"February"	"2"	"2023"	"2023"	358
+	"Vermont"	"50"	"February"	"2"	"2024"	"2024"	383
+"Total"	"Vermont"	"50"	"February"	"2"			741
+	"Vermont"	"50"	"March"	"3"	"2023"	"2023"	412
+"Total"	"Vermont"	"50"	"March"	"3"			412
+	"Vermont"	"50"	"April"	"4"	"2023"	"2023"	446
+"Total"	"Vermont"	"50"	"April"	"4"			446
+	"Vermont"	"50"	"May"	"5"	"2023"	"2023"	457
+"Total"	"Vermont"	"50"	"May"	"5"			457
+	"Vermont"	"50"	"June"	"6"	"2023"	"2023"	438
+"Total"	"Vermont"	"50"	"June"	"6"			438
+	"Vermont"	"50"	"July"	"7"	"2023"	"2023"	424
+"Total"	"Vermont"	"50"	"July"	"7"			424
+	"Vermont"	"50"	"August"	"8"	"2023"	"2023"	478
+"Total"	"Vermont"	"50"	"August"	"8"			478
+	"Vermont"	"50"	"September"	"9"	"2023"	"2023"	424
+"Total"	"Vermont"	"50"	"September"	"9"			424
+	"Vermont"	"50"	"October"	"10"	"2023"	"2023"	391
+"Total"	"Vermont"	"50"	"October"	"10"			391
+	"Vermont"	"50"	"November"	"11"	"2023"	"2023"	428
+"Total"	"Vermont"	"50"	"November"	"11"			428
+	"Vermont"	"50"	"December"	"12"	"2023"	"2023"	417
+"Total"	"Vermont"	"50"	"December"	"12"			417
+"Total"	"Vermont"	"50"					5830
+	"Virginia"	"51"	"January"	"1"	"2023"	"2023"	7696
+	"Virginia"	"51"	"January"	"1"	"2024"	"2024"	7717
+"Total"	"Virginia"	"51"	"January"	"1"			15413
+	"Virginia"	"51"	"February"	"2"	"2023"	"2023"	7021
+	"Virginia"	"51"	"February"	"2"	"2024"	"2024"	7254
+"Total"	"Virginia"	"51"	"February"	"2"			14275
+	"Virginia"	"51"	"March"	"3"	"2023"	"2023"	7658
+"Total"	"Virginia"	"51"	"March"	"3"			7658
+	"Virginia"	"51"	"April"	"4"	"2023"	"2023"	7045
+"Total"	"Virginia"	"51"	"April"	"4"			7045
+	"Virginia"	"51"	"May"	"5"	"2023"	"2023"	7753
+"Total"	"Virginia"	"51"	"May"	"5"			7753
+	"Virginia"	"51"	"June"	"6"	"2023"	"2023"	7886
+"Total"	"Virginia"	"51"	"June"	"6"			7886
+	"Virginia"	"51"	"July"	"7"	"2023"	"2023"	7944
+"Total"	"Virginia"	"51"	"July"	"7"			7944
+	"Virginia"	"51"	"August"	"8"	"2023"	"2023"	8403
+"Total"	"Virginia"	"51"	"August"	"8"			8403
+	"Virginia"	"51"	"September"	"9"	"2023"	"2023"	7828
+"Total"	"Virginia"	"51"	"September"	"9"			7828
+	"Virginia"	"51"	"October"	"10"	"2023"	"2023"	8067
+"Total"	"Virginia"	"51"	"October"	"10"			8067
+	"Virginia"	"51"	"November"	"11"	"2023"	"2023"	7509
+"Total"	"Virginia"	"51"	"November"	"11"			7509
+	"Virginia"	"51"	"December"	"12"	"2023"	"2023"	7822
+"Total"	"Virginia"	"51"	"December"	"12"			7822
+"Total"	"Virginia"	"51"					107603
+	"Washington"	"53"	"January"	"1"	"2023"	"2023"	6602
+	"Washington"	"53"	"January"	"1"	"2024"	"2024"	6609
+"Total"	"Washington"	"53"	"January"	"1"			13211
+	"Washington"	"53"	"February"	"2"	"2023"	"2023"	5979
+	"Washington"	"53"	"February"	"2"	"2024"	"2024"	6323
+"Total"	"Washington"	"53"	"February"	"2"			12302
+	"Washington"	"53"	"March"	"3"	"2023"	"2023"	6695
+"Total"	"Washington"	"53"	"March"	"3"			6695
+	"Washington"	"53"	"April"	"4"	"2023"	"2023"	6521
+"Total"	"Washington"	"53"	"April"	"4"			6521
+	"Washington"	"53"	"May"	"5"	"2023"	"2023"	6996
+"Total"	"Washington"	"53"	"May"	"5"			6996
+	"Washington"	"53"	"June"	"6"	"2023"	"2023"	6913
+"Total"	"Washington"	"53"	"June"	"6"			6913
+	"Washington"	"53"	"July"	"7"	"2023"	"2023"	7034
+"Total"	"Washington"	"53"	"July"	"7"			7034
+	"Washington"	"53"	"August"	"8"	"2023"	"2023"	7226
+"Total"	"Washington"	"53"	"August"	"8"			7226
+	"Washington"	"53"	"September"	"9"	"2023"	"2023"	6799
+"Total"	"Washington"	"53"	"September"	"9"			6799
+	"Washington"	"53"	"October"	"10"	"2023"	"2023"	6788
+"Total"	"Washington"	"53"	"October"	"10"			6788
+	"Washington"	"53"	"November"	"11"	"2023"	"2023"	6660
+"Total"	"Washington"	"53"	"November"	"11"			6660
+	"Washington"	"53"	"December"	"12"	"2023"	"2023"	6712
+"Total"	"Washington"	"53"	"December"	"12"			6712
+"Total"	"Washington"	"53"					93857
+	"West Virginia"	"54"	"January"	"1"	"2023"	"2023"	1404
+	"West Virginia"	"54"	"January"	"1"	"2024"	"2024"	1366
+"Total"	"West Virginia"	"54"	"January"	"1"			2770
+	"West Virginia"	"54"	"February"	"2"	"2023"	"2023"	1304
+	"West Virginia"	"54"	"February"	"2"	"2024"	"2024"	1326
+"Total"	"West Virginia"	"54"	"February"	"2"			2630
+	"West Virginia"	"54"	"March"	"3"	"2023"	"2023"	1387
+"Total"	"West Virginia"	"54"	"March"	"3"			1387
+	"West Virginia"	"54"	"April"	"4"	"2023"	"2023"	1198
+"Total"	"West Virginia"	"54"	"April"	"4"			1198
+	"West Virginia"	"54"	"May"	"5"	"2023"	"2023"	1407
+"Total"	"West Virginia"	"54"	"May"	"5"			1407
+	"West Virginia"	"54"	"June"	"6"	"2023"	"2023"	1468
+"Total"	"West Virginia"	"54"	"June"	"6"			1468
+	"West Virginia"	"54"	"July"	"7"	"2023"	"2023"	1456
+"Total"	"West Virginia"	"54"	"July"	"7"			1456
+	"West Virginia"	"54"	"August"	"8"	"2023"	"2023"	1442
+"Total"	"West Virginia"	"54"	"August"	"8"			1442
+	"West Virginia"	"54"	"September"	"9"	"2023"	"2023"	1419
+"Total"	"West Virginia"	"54"	"September"	"9"			1419
+	"West Virginia"	"54"	"October"	"10"	"2023"	"2023"	1380
+"Total"	"West Virginia"	"54"	"October"	"10"			1380
+	"West Virginia"	"54"	"November"	"11"	"2023"	"2023"	1371
+"Total"	"West Virginia"	"54"	"November"	"11"			1371
+	"West Virginia"	"54"	"December"	"12"	"2023"	"2023"	1357
+"Total"	"West Virginia"	"54"	"December"	"12"			1357
+"Total"	"West Virginia"	"54"					19285
+	"Wisconsin"	"55"	"January"	"1"	"2023"	"2023"	4784
+	"Wisconsin"	"55"	"January"	"1"	"2024"	"2024"	4650
+"Total"	"Wisconsin"	"55"	"January"	"1"			9434
+	"Wisconsin"	"55"	"February"	"2"	"2023"	"2023"	4430
+	"Wisconsin"	"55"	"February"	"2"	"2024"	"2024"	4690
+"Total"	"Wisconsin"	"55"	"February"	"2"			9120
+	"Wisconsin"	"55"	"March"	"3"	"2023"	"2023"	5148
+"Total"	"Wisconsin"	"55"	"March"	"3"			5148
+	"Wisconsin"	"55"	"April"	"4"	"2023"	"2023"	4846
+"Total"	"Wisconsin"	"55"	"April"	"4"			4846
+	"Wisconsin"	"55"	"May"	"5"	"2023"	"2023"	5204
+"Total"	"Wisconsin"	"55"	"May"	"5"			5204
+	"Wisconsin"	"55"	"June"	"6"	"2023"	"2023"	5207
+"Total"	"Wisconsin"	"55"	"June"	"6"			5207
+	"Wisconsin"	"55"	"July"	"7"	"2023"	"2023"	5338
+"Total"	"Wisconsin"	"55"	"July"	"7"			5338
+	"Wisconsin"	"55"	"August"	"8"	"2023"	"2023"	5319
+"Total"	"Wisconsin"	"55"	"August"	"8"			5319
+	"Wisconsin"	"55"	"September"	"9"	"2023"	"2023"	5083
+"Total"	"Wisconsin"	"55"	"September"	"9"			5083
+	"Wisconsin"	"55"	"October"	"10"	"2023"	"2023"	5061
+"Total"	"Wisconsin"	"55"	"October"	"10"			5061
+	"Wisconsin"	"55"	"November"	"11"	"2023"	"2023"	4631
+"Total"	"Wisconsin"	"55"	"November"	"11"			4631
+	"Wisconsin"	"55"	"December"	"12"	"2023"	"2023"	4696
+"Total"	"Wisconsin"	"55"	"December"	"12"			4696
+"Total"	"Wisconsin"	"55"					69087
+	"Wyoming"	"56"	"January"	"1"	"2023"	"2023"	459
+	"Wyoming"	"56"	"January"	"1"	"2024"	"2024"	482
+"Total"	"Wyoming"	"56"	"January"	"1"			941
+	"Wyoming"	"56"	"February"	"2"	"2023"	"2023"	449
+	"Wyoming"	"56"	"February"	"2"	"2024"	"2024"	481
+"Total"	"Wyoming"	"56"	"February"	"2"			930
+	"Wyoming"	"56"	"March"	"3"	"2023"	"2023"	536
+"Total"	"Wyoming"	"56"	"March"	"3"			536
+	"Wyoming"	"56"	"April"	"4"	"2023"	"2023"	498
+"Total"	"Wyoming"	"56"	"April"	"4"			498
+	"Wyoming"	"56"	"May"	"5"	"2023"	"2023"	510
+"Total"	"Wyoming"	"56"	"May"	"5"			510
+	"Wyoming"	"56"	"June"	"6"	"2023"	"2023"	544
+"Total"	"Wyoming"	"56"	"June"	"6"			544
+	"Wyoming"	"56"	"July"	"7"	"2023"	"2023"	514
+"Total"	"Wyoming"	"56"	"July"	"7"			514
+	"Wyoming"	"56"	"August"	"8"	"2023"	"2023"	552
+"Total"	"Wyoming"	"56"	"August"	"8"			552
+	"Wyoming"	"56"	"September"	"9"	"2023"	"2023"	485
+"Total"	"Wyoming"	"56"	"September"	"9"			485
+	"Wyoming"	"56"	"October"	"10"	"2023"	"2023"	502
+"Total"	"Wyoming"	"56"	"October"	"10"			502
+	"Wyoming"	"56"	"November"	"11"	"2023"	"2023"	469
+"Total"	"Wyoming"	"56"	"November"	"11"			469
+	"Wyoming"	"56"	"December"	"12"	"2023"	"2023"	472
+"Total"	"Wyoming"	"56"	"December"	"12"			472
+"Total"	"Wyoming"	"56"					6953
+"Total"							4170570
+"---"
+"Dataset: Provisional Natality, 2023 through Last Month"
+"Query Parameters:"
+"State of Residence: Alabama (01); Alaska (02); Arizona (04); Arkansas (05); California (06); Colorado (08); Connecticut (09);"
+"Delaware (10); District of Columbia (11); Florida (12); Georgia (13); Hawaii (15); Idaho (16); Illinois (17); Indiana (18); Iowa"
+"(19); Kansas (20); Kentucky (21); Louisiana (22); Maine (23); Maryland (24); Massachusetts (25); Michigan (26); Minnesota (27);"
+"Mississippi (28); Missouri (29); Montana (30); Nebraska (31); Nevada (32); New Hampshire (33); New Jersey (34); New Mexico (35);"
+"New York (36); North Carolina (37); North Dakota (38); Ohio (39); Oklahoma (40); Oregon (41); Pennsylvania (42); Rhode Island"
+"(44); South Carolina (45); South Dakota (46); Tennessee (47); Texas (48); Utah (49); Vermont (50); Virginia (51); Washington"
+"(53); West Virginia (54); Wisconsin (55); Wyoming (56)"
+"Group By: State of Residence; Month; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-provisional.html for more information."
+"---"
+"Query Date: May 4, 2024 8:42:48 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Natality on CDC WONDER Online Database. Data are from the Natality Records 2023 through Last Month, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/natality-expanded-provisional.html on May 4, 2024 8:42:48 AM"
+"---"
+Messages:
+"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. Data are provisional and subject to change."
+"3. Births occurring through February 29, 2024 as of March 28, 2024."

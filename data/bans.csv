@@ -1,0 +1,81 @@
+state,year,month,ban_in,ban_week
+Alabama,2020,1,0,
+Alaska,2020,1,0,
+Arizona,2020,1,0,
+Arkansas,2020,1,0,
+California,2020,1,0,
+Colorado,2020,1,0,
+Connecticut,2020,1,0,
+Delaware,2020,1,0,
+DC,2020,1,0,
+Florida,2020,1,0,
+Georgia,2020,1,0,
+Hawaii,2020,1,0,
+Idaho,2020,1,0,
+Illinois,2020,1,0,
+Indiana,2020,1,0,
+Iowa,2020,1,0,
+Kansas,2020,1,0,
+Kentucky,2020,1,0,
+Louisiana,2020,1,0,
+Maine,2020,1,0,
+Maryland,2020,1,0,
+Massachusetts,2020,1,0,
+Michigan,2020,1,0,
+Minnesota,2020,1,0,
+Mississippi,2020,1,0,
+Missouri,2020,1,0,
+Montana,2020,1,0,
+Nebraska,2020,1,0,
+Nevada,2020,1,0,
+New Hampshire,2020,1,0,
+New Jersey,2020,1,0,
+New Mexico,2020,1,0,
+New York,2020,1,0,
+North Carolina,2020,1,0,
+North Dakota,2020,1,0,
+Ohio,2020,1,0,
+Oklahoma,2020,1,0,
+Oregon,2020,1,0,
+Pennsylvania,2020,1,0,
+Rhode Island,2020,1,0,
+South Carolina,2020,1,0,
+South Dakota,2020,1,0,
+Tennessee,2020,1,0,
+Texas,2020,1,0,
+Utah,2020,1,0,
+Vermont,2020,1,0,
+Virginia,2020,1,0,
+Washington,2020,1,0,
+West Virginia,2020,1,0,
+Wisconsin,2020,1,0,
+Wyoming,2020,1,0,
+Alabama,2022,7,1,0
+Arizona,2023,4,1,0
+Arizona,2023,5,0,
+Arkansas,2022,7,1,0
+Georgia,2022,8,1,6
+Idaho,2022,9,1,0
+Indiana,2023,8,1,0
+Kentucky,2022,8,1,0
+Louisiana,2022,7,1,0
+Mississippi,2022,7,1,0
+Missouri,2022,7,1,0
+Nebraska,2023,6,1,12
+North Carolina,2023,7,1,12
+North Dakota,2023,5,1,0
+Ohio,2022,7,1,6
+Ohio,2022,9,0,
+Oklahoma,2022,7,1,0
+South Carolina,2022,7,1,6
+South Carolina,2022,9,0,
+South Carolina,2023,9,1,6
+South Dakota,2022,7,1,0
+Tennessee,2022,7,1,6
+Tennessee,2022,9,1,0
+Texas,2022,7,1,0
+West Virginia,2022,7,1,0
+West Virginia,2022,8,0,
+West Virginia,2022,10,1,0
+Wisconsin,2022,7,1,0
+Wisconsin,2023,10,0,

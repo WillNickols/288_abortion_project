@@ -1,0 +1,8 @@
+abortions.txt and abortions2.txt are from copying the WeCount pages: https://societyfp.org/wp-content/uploads/2024/02/SFPWeCountPublicReport_2.28.24.pdf
+
+sc-est2022-agesex-civ.csv is from https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-detail.html
+
+Natality, 2016-2022 expanded.txt from https://wonder.cdc.gov/
+Provisional Natality, 2023 through Last Month.txt from https://wonder.cdc.gov/
+
+MonthlyAbortionProvisionMonthly.csv from https://osf.io/dt5j6
